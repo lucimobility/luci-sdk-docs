@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Packages/keyboard-teleop/teleop",
+  "id": "version-v0.1.4-testing/Packages/keyboard-teleop/teleop",
+  "title": "Keyboard Teleop",
+  "description": "The luciteleoppy package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
+  "source": "@site/versioned_docs/version-v0.1.4-testing/3_Packages/keyboard-teleop/teleop.md",
+  "sourceDirName": "3_Packages/keyboard-teleop",
+  "slug": "/Packages/keyboard-teleop/teleop",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.4-testing/Packages/keyboard-teleop/teleop",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.4-testing",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_ros2_grpc",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.4-testing/Packages/grpc/grpc_package"
+  },
+  "next": {
+    "title": "luci_ros2_msgs",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.4-testing/Packages/msgs/msgs_package"
+  }
+}

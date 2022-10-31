@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Packages/grpc/grpc_package",
+  "id": "version-v0.1.2-testing/Packages/grpc/grpc_package",
+  "title": "luci_ros2_grpc",
+  "description": "summary:",
+  "source": "@site/versioned_docs/version-v0.1.2-testing/3_Packages/grpc/grpc_package.md",
+  "sourceDirName": "3_Packages/grpc",
+  "slug": "/Packages/grpc/grpc_package",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.2-testing/Packages/grpc/grpc_package",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.2-testing",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_ros2_transforms",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.2-testing/Nodes/transforms/luci_transforms_package"
+  },
+  "next": {
+    "title": "Keyboard Teleop",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.2-testing/Packages/keyboard-teleop/teleop"
+  }
+}

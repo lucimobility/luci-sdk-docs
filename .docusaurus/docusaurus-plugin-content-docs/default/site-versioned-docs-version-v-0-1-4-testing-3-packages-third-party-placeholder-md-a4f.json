@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Packages/third-party/placeholder",
+  "id": "version-v0.1.4-testing/Packages/third-party/placeholder",
+  "title": "Third Party Packages",
+  "description": "There are currently no third party packages in this release",
+  "source": "@site/versioned_docs/version-v0.1.4-testing/3_Packages/third-party/placeholder.md",
+  "sourceDirName": "3_Packages/third-party",
+  "slug": "/Packages/third-party/placeholder",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.4-testing/Packages/third-party/placeholder",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.4-testing",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_ros2_msgs",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.4-testing/Packages/msgs/msgs_package"
+  },
+  "next": {
+    "title": "luci_ros2_transforms",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.4-testing/Packages/transforms/luci_transforms_package"
+  }
+}

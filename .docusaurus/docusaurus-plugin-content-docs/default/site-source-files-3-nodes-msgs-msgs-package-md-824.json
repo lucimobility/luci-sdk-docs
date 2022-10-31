@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Nodes/msgs/msgs_package",
+  "id": "Nodes/msgs/msgs_package",
+  "title": "luci_ros2_msgs",
+  "description": "summary:",
+  "source": "@site/source_files/3_Nodes/msgs/msgs_package.md",
+  "sourceDirName": "3_Nodes/msgs",
+  "slug": "/Nodes/msgs/msgs_package",
+  "permalink": "/luci-ros2-sdk-docs/next/Nodes/msgs/msgs_package",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keyboard Teleop",
+    "permalink": "/luci-ros2-sdk-docs/next/Nodes/keyboard-teleop/teleop"
+  },
+  "next": {
+    "title": "Third Party Packages",
+    "permalink": "/luci-ros2-sdk-docs/next/Nodes/third-party/placeholder"
+  }
+}

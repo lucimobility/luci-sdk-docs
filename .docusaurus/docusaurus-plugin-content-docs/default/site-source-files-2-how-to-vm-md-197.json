@@ -1,0 +1,23 @@
+{
+  "unversionedId": "How-To/vm",
+  "id": "How-To/vm",
+  "title": "VM",
+  "description": "If you are using the VM please download the provided .iso image and run it on your favorite hypervisor. I recommend proxmox if you are running a server machine. This VM will have all the dependencies ready to go out of the box and you should only need to run the ROS2 SDK install step.",
+  "source": "@site/source_files/2_How-To/vm.md",
+  "sourceDirName": "2_How-To",
+  "slug": "/How-To/vm",
+  "permalink": "/luci-ros2-sdk-docs/next/How-To/vm",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/troubleshooting"
+  },
+  "next": {
+    "title": "luci_ros2_grpc",
+    "permalink": "/luci-ros2-sdk-docs/next/Nodes/grpc/grpc_package"
+  }
+}

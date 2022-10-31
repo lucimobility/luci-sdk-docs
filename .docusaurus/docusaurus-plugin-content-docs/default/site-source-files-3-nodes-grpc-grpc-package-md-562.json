@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Nodes/grpc/grpc_package",
+  "id": "Nodes/grpc/grpc_package",
+  "title": "luci_ros2_grpc",
+  "description": "summary:",
+  "source": "@site/source_files/3_Nodes/grpc/grpc_package.md",
+  "sourceDirName": "3_Nodes/grpc",
+  "slug": "/Nodes/grpc/grpc_package",
+  "permalink": "/luci-ros2-sdk-docs/next/Nodes/grpc/grpc_package",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/troubleshooting"
+  },
+  "next": {
+    "title": "Keyboard Teleop",
+    "permalink": "/luci-ros2-sdk-docs/next/Nodes/keyboard-teleop/teleop"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "unversionedId": "Nodes/transforms/luci_transforms_package",
+  "id": "version-v0.1.0-testing/Nodes/transforms/luci_transforms_package",
+  "title": "luci_ros2_transforms",
+  "description": "summary",
+  "source": "@site/versioned_docs/version-v0.1.0-testing/3_Nodes/transforms/luci_transforms_package.md",
+  "sourceDirName": "3_Nodes/transforms",
+  "slug": "/Nodes/transforms/luci_transforms_package",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/Nodes/transforms/luci_transforms_package",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.0-testing",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Third Party Packages",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/Nodes/third-party/placeholder"
+  }
+}

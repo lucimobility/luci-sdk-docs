@@ -1,0 +1,24 @@
+{
+  "unversionedId": "How-To/Getting-Started/getting-started",
+  "id": "How-To/Getting-Started/getting-started",
+  "title": "Getting Started",
+  "description": "Setting up your development machine",
+  "source": "@site/source_files/2_How-To/1_Getting-Started/1_getting-started.md",
+  "sourceDirName": "2_How-To/1_Getting-Started",
+  "slug": "/How-To/Getting-Started/",
+  "permalink": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK Documentation",
+    "permalink": "/luci-ros2-sdk-docs/next/"
+  },
+  "next": {
+    "title": "Installing Basic System Dependencies",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/dependencies"
+  }
+}

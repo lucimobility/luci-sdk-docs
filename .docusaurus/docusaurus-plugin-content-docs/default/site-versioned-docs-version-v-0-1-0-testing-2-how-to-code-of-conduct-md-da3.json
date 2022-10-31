@@ -1,0 +1,23 @@
+{
+  "unversionedId": "How-To/code-of-conduct",
+  "id": "version-v0.1.0-testing/How-To/code-of-conduct",
+  "title": "LUCI Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/versioned_docs/version-v0.1.0-testing/2_How-To/code-of-conduct.md",
+  "sourceDirName": "2_How-To",
+  "slug": "/How-To/code-of-conduct",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/code-of-conduct",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.0-testing",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Contribute",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/troubleshooting"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Packages/Third Party/placeholder",
+  "id": "Packages/Third Party/placeholder",
+  "title": "luci-third-party",
+  "description": "There are currently no third party packages in this release",
+  "source": "@site/source_files/3_Packages/Third Party/placeholder.md",
+  "sourceDirName": "3_Packages/Third Party",
+  "slug": "/Packages/Third Party/placeholder",
+  "permalink": "/luci-ros2-sdk-docs/next/Packages/Third Party/placeholder",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_messages",
+    "permalink": "/luci-ros2-sdk-docs/next/Packages/Messages/msgs_package"
+  },
+  "next": {
+    "title": "luci_transforms",
+    "permalink": "/luci-ros2-sdk-docs/next/Packages/Transforms/luci_transforms_package"
+  }
+}

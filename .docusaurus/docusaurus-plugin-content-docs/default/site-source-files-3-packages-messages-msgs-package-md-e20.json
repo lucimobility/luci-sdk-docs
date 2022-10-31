@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Packages/Messages/msgs_package",
+  "id": "Packages/Messages/msgs_package",
+  "title": "luci_messages",
+  "description": "summary:",
+  "source": "@site/source_files/3_Packages/Messages/msgs_package.md",
+  "sourceDirName": "3_Packages/Messages",
+  "slug": "/Packages/Messages/msgs_package",
+  "permalink": "/luci-ros2-sdk-docs/next/Packages/Messages/msgs_package",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_grpc_interface",
+    "permalink": "/luci-ros2-sdk-docs/next/Packages/GRPC Interface/grpc_package"
+  },
+  "next": {
+    "title": "luci-third-party",
+    "permalink": "/luci-ros2-sdk-docs/next/Packages/Third Party/placeholder"
+  }
+}

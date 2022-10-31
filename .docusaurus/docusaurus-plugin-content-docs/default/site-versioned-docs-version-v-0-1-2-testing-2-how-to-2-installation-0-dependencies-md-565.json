@@ -1,0 +1,24 @@
+{
+  "unversionedId": "How-To/Installation/dependencies",
+  "id": "version-v0.1.2-testing/How-To/Installation/dependencies",
+  "title": "Installing Basic System Dependencies",
+  "description": "Manual dependencies:",
+  "source": "@site/versioned_docs/version-v0.1.2-testing/2_How-To/2_Installation/0_dependencies.md",
+  "sourceDirName": "2_How-To/2_Installation",
+  "slug": "/How-To/Installation/dependencies",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.2-testing/How-To/Installation/dependencies",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.2-testing",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.2-testing/How-To/Getting-Started/"
+  },
+  "next": {
+    "title": "Install ROS2 Galactic",
+    "permalink": "/luci-ros2-sdk-docs/v0.1.2-testing/How-To/Installation/ros-install"
+  }
+}
