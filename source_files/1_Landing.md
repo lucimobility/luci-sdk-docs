@@ -38,12 +38,26 @@ The current features of the ROS2 SDK are as follows:
 
 ## Versioning:
 
-The SDK is a combination of multiple individual packages. Each package is a separate repo and as such has its own versioning number. The publicly provided SDK repo however is a holding place for examples and package binaries. As a developer using the SDK you will only need to concern yourself with that single repo and version. All binaries in a specific version will be tested against each other before any public release tag is generated.
+The SDK is a combination of multiple individual packages. Each package is a separate repo and as such has its own versioning number. The publicly provided SDK repo however is a holding place for examples and package documentation. As a developer using the SDK you will only need to concern yourself with that single [repo](https://github.com/lucimobility/luci-ros2-sdk) and version. All binaries in a specific version will be tested against each other before any public release tag is generated.
 
 New tags will be released based on aggressiveness of the changes which may include new support for an upgraded ROS version or the inclusion of new features in the form of additional package binaries.
 
 Versioning is handled on a major.minor.patch method, until the official SDK is released all developers will be using a version < 1.0.0.
 
+As new features are added to individual ROS2 packages their indiviudal repos will be tagged and binaries released to the public via a deb artifactory. 
+
+**A new release of an individual package is not guranteed to cause a release of a new SDK. It will likely be common practice to hold on a new SDK release until there are multiple changes to multiple packages.**
+
+*Please note that a package binary is not considered compatible or tested with any other ROS nodes other than those listed in its specific SDK release.*
+
+
 ## Package Descriptions:
 
-There are several individual packages that are designed to be as separate as possible (though some rely on the message package) so that each package can be run individually depending on the feature set and level of LUCI input needed.
+There are several individual packages that are designed to be as separate as possible (though some internal dependencies do exist) so that each package can be run individually depending on the feature set and level of LUCI input needed.
+
+## License
+The LUCI Sandbox SDK falls under the [Appache 2.0 License](http://www.apache.org/licenses/)
+
+
+### This Documentation Repo
+https://github.com/lucimobility/luci-ros2-sdk-docs
