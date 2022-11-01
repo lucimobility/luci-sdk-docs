@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.1.0-testing/2_How-To/2_Installation/4_luci-ros2-sdk-install.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/luci-ros2-sdk-install",
-  "permalink": "/test-sdk-docs/How-To/Installation/luci-ros2-sdk-install",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/Installation/luci-ros2-sdk-install",
   "draft": false,
   "tags": [],
   "version": "v0.1.0-testing",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Install Protobuf",
-    "permalink": "/test-sdk-docs/How-To/Installation/install-protobuf"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/Installation/install-protobuf"
   },
   "next": {
     "title": "SDK Examples",
-    "permalink": "/test-sdk-docs/How-To/Examples/examples"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/Examples/examples"
   }
 }

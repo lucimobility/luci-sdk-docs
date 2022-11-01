@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.1.0-testing/3_Nodes/keyboard-teleop/teleop.md",
   "sourceDirName": "3_Nodes/keyboard-teleop",
   "slug": "/Nodes/keyboard-teleop/teleop",
-  "permalink": "/test-sdk-docs/Nodes/keyboard-teleop/teleop",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/Nodes/keyboard-teleop/teleop",
   "draft": false,
   "tags": [],
   "version": "v0.1.0-testing",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci_ros2_grpc",
-    "permalink": "/test-sdk-docs/Nodes/grpc/grpc_package"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/Nodes/grpc/grpc_package"
   },
   "next": {
     "title": "luci_ros2_msgs",
-    "permalink": "/test-sdk-docs/Nodes/msgs/msgs_package"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/Nodes/msgs/msgs_package"
   }
 }

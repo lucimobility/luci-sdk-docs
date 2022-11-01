@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.1.0-testing/2_How-To/vm.md",
   "sourceDirName": "2_How-To",
   "slug": "/How-To/vm",
-  "permalink": "/test-sdk-docs/How-To/vm",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/vm",
   "draft": false,
   "tags": [],
   "version": "v0.1.0-testing",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshooting",
-    "permalink": "/test-sdk-docs/How-To/troubleshooting"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/troubleshooting"
   },
   "next": {
     "title": "luci_ros2_grpc",
-    "permalink": "/test-sdk-docs/Nodes/grpc/grpc_package"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/Nodes/grpc/grpc_package"
   }
 }

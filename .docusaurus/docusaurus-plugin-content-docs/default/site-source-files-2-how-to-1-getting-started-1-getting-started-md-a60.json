@@ -6,7 +6,7 @@
   "source": "@site/source_files/2_How-To/1_Getting-Started/1_getting-started.md",
   "sourceDirName": "2_How-To/1_Getting-Started",
   "slug": "/How-To/Getting-Started/",
-  "permalink": "/test-sdk-docs/next/How-To/Getting-Started/",
+  "permalink": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK Documentation",
-    "permalink": "/test-sdk-docs/next/"
+    "permalink": "/luci-ros2-sdk-docs/next/"
   },
   "next": {
     "title": "Install ROS2 Galactic",
-    "permalink": "/test-sdk-docs/next/How-To/Installation/ros-install"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/ros-install"
   }
 }

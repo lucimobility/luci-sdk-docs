@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.1.0-testing/2_How-To/troubleshooting.md",
   "sourceDirName": "2_How-To",
   "slug": "/How-To/troubleshooting",
-  "permalink": "/test-sdk-docs/How-To/troubleshooting",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/troubleshooting",
   "draft": false,
   "tags": [],
   "version": "v0.1.0-testing",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "LUCI Code of Conduct",
-    "permalink": "/test-sdk-docs/How-To/code-of-conduct"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/code-of-conduct"
   },
   "next": {
     "title": "VM",
-    "permalink": "/test-sdk-docs/How-To/vm"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/vm"
   }
 }

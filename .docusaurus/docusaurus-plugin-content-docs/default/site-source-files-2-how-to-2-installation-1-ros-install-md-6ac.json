@@ -6,7 +6,7 @@
   "source": "@site/source_files/2_How-To/2_Installation/1_ros-install.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/ros-install",
-  "permalink": "/test-sdk-docs/next/How-To/Installation/ros-install",
+  "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/ros-install",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/test-sdk-docs/next/How-To/Getting-Started/"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/"
   },
   "next": {
     "title": "Install gRPC",
-    "permalink": "/test-sdk-docs/next/How-To/Installation/install-grpc"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/install-grpc"
   }
 }

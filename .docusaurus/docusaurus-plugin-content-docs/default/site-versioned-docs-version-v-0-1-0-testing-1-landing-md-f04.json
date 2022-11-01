@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.1.0-testing/1_Landing.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/test-sdk-docs/",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/",
   "draft": false,
   "tags": [],
   "version": "v0.1.0-testing",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Getting Started",
-    "permalink": "/test-sdk-docs/How-To/Getting-Started/"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/Getting-Started/"
   }
 }

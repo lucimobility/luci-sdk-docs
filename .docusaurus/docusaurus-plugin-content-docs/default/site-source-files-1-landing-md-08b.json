@@ -6,7 +6,7 @@
   "source": "@site/source_files/1_Landing.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/test-sdk-docs/next/",
+  "permalink": "/luci-ros2-sdk-docs/next/",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Getting Started",
-    "permalink": "/test-sdk-docs/next/How-To/Getting-Started/"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/"
   }
 }

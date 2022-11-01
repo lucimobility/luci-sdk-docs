@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v0.1.0-testing/2_How-To/CONTRIBUTING.md",
   "sourceDirName": "2_How-To",
   "slug": "/How-To/CONTRIBUTING",
-  "permalink": "/test-sdk-docs/How-To/CONTRIBUTING",
+  "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/CONTRIBUTING",
   "draft": false,
   "tags": [],
   "version": "v0.1.0-testing",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK Examples",
-    "permalink": "/test-sdk-docs/How-To/Examples/examples"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/Examples/examples"
   },
   "next": {
     "title": "LUCI Code of Conduct",
-    "permalink": "/test-sdk-docs/How-To/code-of-conduct"
+    "permalink": "/luci-ros2-sdk-docs/v0.1.0-testing/How-To/code-of-conduct"
   }
 }

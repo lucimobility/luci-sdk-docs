@@ -6,7 +6,7 @@
   "source": "@site/source_files/3_Nodes/grpc/grpc_package.md",
   "sourceDirName": "3_Nodes/grpc",
   "slug": "/Nodes/grpc/grpc_package",
-  "permalink": "/test-sdk-docs/next/Nodes/grpc/grpc_package",
+  "permalink": "/luci-ros2-sdk-docs/next/Nodes/grpc/grpc_package",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "VM",
-    "permalink": "/test-sdk-docs/next/How-To/vm"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/vm"
   },
   "next": {
     "title": "Keyboard Teleop",
-    "permalink": "/test-sdk-docs/next/Nodes/keyboard-teleop/teleop"
+    "permalink": "/luci-ros2-sdk-docs/next/Nodes/keyboard-teleop/teleop"
   }
 }

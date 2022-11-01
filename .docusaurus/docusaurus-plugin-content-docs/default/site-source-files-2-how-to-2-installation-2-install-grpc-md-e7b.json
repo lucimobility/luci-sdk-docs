@@ -6,7 +6,7 @@
   "source": "@site/source_files/2_How-To/2_Installation/2_install-grpc.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/install-grpc",
-  "permalink": "/test-sdk-docs/next/How-To/Installation/install-grpc",
+  "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/install-grpc",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Install ROS2 Galactic",
-    "permalink": "/test-sdk-docs/next/How-To/Installation/ros-install"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/ros-install"
   },
   "next": {
     "title": "Install Protobuf",
-    "permalink": "/test-sdk-docs/next/How-To/Installation/install-protobuf"
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/install-protobuf"
   }
 }
