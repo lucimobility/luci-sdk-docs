@@ -1,0 +1,206 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/test-sdk-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": false,
+          "path": "/test-sdk-docs/next",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "How-To/code-of-conduct",
+              "path": "/test-sdk-docs/next/How-To/code-of-conduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/CONTRIBUTING",
+              "path": "/test-sdk-docs/next/How-To/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Examples/examples",
+              "path": "/test-sdk-docs/next/How-To/Examples/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Getting-Started/getting-started",
+              "path": "/test-sdk-docs/next/How-To/Getting-Started/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/install-grpc",
+              "path": "/test-sdk-docs/next/How-To/Installation/install-grpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/install-protobuf",
+              "path": "/test-sdk-docs/next/How-To/Installation/install-protobuf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/luci-ros2-sdk-install",
+              "path": "/test-sdk-docs/next/How-To/Installation/luci-ros2-sdk-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/ros-install",
+              "path": "/test-sdk-docs/next/How-To/Installation/ros-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/troubleshooting",
+              "path": "/test-sdk-docs/next/How-To/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/vm",
+              "path": "/test-sdk-docs/next/How-To/vm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/test-sdk-docs/next/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/grpc/grpc_package",
+              "path": "/test-sdk-docs/next/Nodes/grpc/grpc_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/keyboard-teleop/teleop",
+              "path": "/test-sdk-docs/next/Nodes/keyboard-teleop/teleop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/msgs/msgs_package",
+              "path": "/test-sdk-docs/next/Nodes/msgs/msgs_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/third-party/placeholder",
+              "path": "/test-sdk-docs/next/Nodes/third-party/placeholder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/transforms/luci_transforms_package",
+              "path": "/test-sdk-docs/next/Nodes/transforms/luci_transforms_package",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/test-sdk-docs/next/",
+                "label": "intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "v0.1.0-testing",
+          "label": "v0.1.0-testing",
+          "isLast": true,
+          "path": "/test-sdk-docs/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "How-To/code-of-conduct",
+              "path": "/test-sdk-docs/How-To/code-of-conduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/CONTRIBUTING",
+              "path": "/test-sdk-docs/How-To/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Examples/examples",
+              "path": "/test-sdk-docs/How-To/Examples/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Getting-Started/getting-started",
+              "path": "/test-sdk-docs/How-To/Getting-Started/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/install-grpc",
+              "path": "/test-sdk-docs/How-To/Installation/install-grpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/install-protobuf",
+              "path": "/test-sdk-docs/How-To/Installation/install-protobuf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/luci-ros2-sdk-install",
+              "path": "/test-sdk-docs/How-To/Installation/luci-ros2-sdk-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/ros-install",
+              "path": "/test-sdk-docs/How-To/Installation/ros-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/troubleshooting",
+              "path": "/test-sdk-docs/How-To/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/vm",
+              "path": "/test-sdk-docs/How-To/vm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/test-sdk-docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/grpc/grpc_package",
+              "path": "/test-sdk-docs/Nodes/grpc/grpc_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/keyboard-teleop/teleop",
+              "path": "/test-sdk-docs/Nodes/keyboard-teleop/teleop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/msgs/msgs_package",
+              "path": "/test-sdk-docs/Nodes/msgs/msgs_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/third-party/placeholder",
+              "path": "/test-sdk-docs/Nodes/third-party/placeholder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Nodes/transforms/luci_transforms_package",
+              "path": "/test-sdk-docs/Nodes/transforms/luci_transforms_package",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/test-sdk-docs/",
+                "label": "version-v0.1.0-testing/intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

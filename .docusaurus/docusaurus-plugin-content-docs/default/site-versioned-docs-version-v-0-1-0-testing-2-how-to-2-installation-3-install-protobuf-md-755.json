@@ -1,0 +1,24 @@
+{
+  "unversionedId": "How-To/Installation/install-protobuf",
+  "id": "version-v0.1.0-testing/How-To/Installation/install-protobuf",
+  "title": "Install Protobuf",
+  "description": "LUCI uses a system known as gRPC for its internal messaging system developed by google. This system uses protobuf as well. These are very version sensitive so it is very important to use the exact versions that are listed below.",
+  "source": "@site/versioned_docs/version-v0.1.0-testing/2_How-To/2_Installation/3_install-protobuf.md",
+  "sourceDirName": "2_How-To/2_Installation",
+  "slug": "/How-To/Installation/install-protobuf",
+  "permalink": "/test-sdk-docs/How-To/Installation/install-protobuf",
+  "draft": false,
+  "tags": [],
+  "version": "v0.1.0-testing",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install gRPC",
+    "permalink": "/test-sdk-docs/How-To/Installation/install-grpc"
+  },
+  "next": {
+    "title": "Install LUCI ROS2 SDK",
+    "permalink": "/test-sdk-docs/How-To/Installation/luci-ros2-sdk-install"
+  }
+}

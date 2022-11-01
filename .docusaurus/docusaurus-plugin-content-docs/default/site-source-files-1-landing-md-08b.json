@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "SDK Documentation",
+  "description": "PLEASE NOTE THIS DOCUMENT IS A CHANGING DURING DEVELOPMENT AND IS SUBJECT TO CHANGE AS MUCH AS SEVERAL TIMES A DAY UNTIL FURTHER INDICATED",
+  "source": "@site/source_files/1_Landing.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/test-sdk-docs/next/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "SDK Documentation",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/test-sdk-docs/next/How-To/Getting-Started/"
+  }
+}
