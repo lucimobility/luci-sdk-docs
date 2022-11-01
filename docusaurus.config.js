@@ -9,7 +9,7 @@ const config = {
   title: 'ROS2 SDK',
   tagline: 'SDK Documentation',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/test-sdk-docs/',
+  baseUrl: '/luci-ros2-sdk-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/sandbox-logo.ico',
