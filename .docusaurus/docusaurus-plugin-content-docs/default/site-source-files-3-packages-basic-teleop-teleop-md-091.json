@@ -2,7 +2,7 @@
   "unversionedId": "Packages/Basic Teleop/teleop",
   "id": "Packages/Basic Teleop/teleop",
   "title": "luci_basic_teleop",
-  "description": "The luciteleoppy package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
+  "description": "The lucibasicteleop package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
   "source": "@site/source_files/3_Packages/Basic Teleop/teleop.md",
   "sourceDirName": "3_Packages/Basic Teleop",
   "slug": "/Packages/Basic Teleop/teleop",

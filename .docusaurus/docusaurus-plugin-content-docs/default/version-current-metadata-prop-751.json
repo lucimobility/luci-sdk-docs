@@ -249,7 +249,7 @@
     "Packages/Basic Teleop/teleop": {
       "id": "Packages/Basic Teleop/teleop",
       "title": "luci_basic_teleop",
-      "description": "The luciteleoppy package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
+      "description": "The lucibasicteleop package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
       "sidebar": "tutorialSidebar"
     },
     "Packages/GRPC Interface/grpc_package": {
