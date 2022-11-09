@@ -63,7 +63,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Luci, LLC.`,
+        copyright: `Copyright © ${new Date().getFullYear()} LUCI, LLC.`,
       },
       prism: {
         theme: lightCodeTheme,
