@@ -54,8 +54,4 @@ As new features are added to individual ROS2 packages their indiviudal repos wil
 There are several individual packages that are designed to be as separate as possible (though some internal dependencies do exist) so that each package can be run individually depending on the feature set and level of LUCI input needed.
 
 ## License
-The LUCI Sandbox SDK falls under the [Appache 2.0 License](http://www.apache.org/licenses/)
-
-
-### This Documentation Repo
-https://github.com/lucimobility/luci-ros2-sdk-docs
+The LUCI Sandbox SDK falls under the [Apache 2.0 License](http://www.apache.org/licenses/)
