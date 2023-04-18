@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.0.0/3_Packages/Third Party/placeholder.md",
   "sourceDirName": "3_Packages/Third Party",
   "slug": "/Packages/Third Party/placeholder",
-  "permalink": "/luci-ros2-sdk-docs/Packages/Third Party/placeholder",
+  "permalink": "/luci-ros2-sdk-docs/v1.0.0/Packages/Third Party/placeholder",
   "draft": false,
   "tags": [],
   "version": "v1.0.0",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci_messages",
-    "permalink": "/luci-ros2-sdk-docs/Packages/Messages/msgs_package"
+    "permalink": "/luci-ros2-sdk-docs/v1.0.0/Packages/Messages/msgs_package"
   },
   "next": {
     "title": "luci_transforms",
-    "permalink": "/luci-ros2-sdk-docs/Packages/Transforms/luci_transforms_package"
+    "permalink": "/luci-ros2-sdk-docs/v1.0.0/Packages/Transforms/luci_transforms_package"
   }
 }

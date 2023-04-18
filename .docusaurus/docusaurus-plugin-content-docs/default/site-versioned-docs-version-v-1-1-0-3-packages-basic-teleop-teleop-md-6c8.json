@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Packages/Basic Teleop/teleop",
+  "id": "version-v1.1.0/Packages/Basic Teleop/teleop",
+  "title": "luci_basic_teleop",
+  "description": "The lucibasicteleop package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
+  "source": "@site/versioned_docs/version-v1.1.0/3_Packages/Basic Teleop/teleop.md",
+  "sourceDirName": "3_Packages/Basic Teleop",
+  "slug": "/Packages/Basic Teleop/teleop",
+  "permalink": "/luci-ros2-sdk-docs/Packages/Basic Teleop/teleop",
+  "draft": false,
+  "tags": [],
+  "version": "v1.1.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/luci-ros2-sdk-docs/How-To/troubleshooting"
+  },
+  "next": {
+    "title": "luci_grpc_interface",
+    "permalink": "/luci-ros2-sdk-docs/Packages/GRPC Interface/grpc_package"
+  }
+}
