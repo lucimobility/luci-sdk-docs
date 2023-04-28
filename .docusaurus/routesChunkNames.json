@@ -223,79 +223,154 @@
     "__comp": "17896441",
     "content": "2268f752"
   },
-  "/luci-ros2-sdk-docs/-838": {
+  "/luci-ros2-sdk-docs/v1.2.0-b7c": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "b7b8cc47"
     },
     "versionMetadata": "9e1436a7"
   },
-  "/luci-ros2-sdk-docs/-201": {
+  "/luci-ros2-sdk-docs/v1.2.0/-6a2": {
     "__comp": "17896441",
     "content": "cc6ee400"
   },
-  "/luci-ros2-sdk-docs/How-To/code-of-conduct-03c": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/code-of-conduct-1f2": {
     "__comp": "17896441",
     "content": "8bc45a84"
   },
-  "/luci-ros2-sdk-docs/How-To/CONTRIBUTING-be3": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/CONTRIBUTING-e4f": {
     "__comp": "17896441",
     "content": "3584a57c"
   },
-  "/luci-ros2-sdk-docs/How-To/Examples/examples-67d": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Examples/examples-730": {
     "__comp": "17896441",
     "content": "c87509e9"
   },
-  "/luci-ros2-sdk-docs/How-To/Getting-Started/-04f": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Getting-Started/-173": {
     "__comp": "17896441",
     "content": "898b8655"
   },
-  "/luci-ros2-sdk-docs/How-To/Getting-Started/docker-7a8": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Getting-Started/docker-47b": {
     "__comp": "17896441",
     "content": "e14a4294"
   },
-  "/luci-ros2-sdk-docs/How-To/Installation/dependencies-bf3": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/dependencies-0da": {
     "__comp": "17896441",
     "content": "05374104"
   },
-  "/luci-ros2-sdk-docs/How-To/Installation/install-grpc-c93": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/install-grpc-d37": {
     "__comp": "17896441",
     "content": "76001421"
   },
-  "/luci-ros2-sdk-docs/How-To/Installation/install-protobuf-339": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/install-protobuf-019": {
     "__comp": "17896441",
     "content": "7c45d2d1"
   },
-  "/luci-ros2-sdk-docs/How-To/Installation/luci-ros2-sdk-install-d2d": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/luci-ros2-sdk-install-bb6": {
     "__comp": "17896441",
     "content": "7cd57915"
   },
-  "/luci-ros2-sdk-docs/How-To/Installation/ros-install-fa2": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/ros-install-09b": {
     "__comp": "17896441",
     "content": "75d3d379"
   },
-  "/luci-ros2-sdk-docs/How-To/troubleshooting-ba0": {
+  "/luci-ros2-sdk-docs/v1.2.0/How-To/troubleshooting-55b": {
     "__comp": "17896441",
     "content": "454c7bcb"
   },
-  "/luci-ros2-sdk-docs/Packages/Basic Teleop/teleop-f10": {
+  "/luci-ros2-sdk-docs/v1.2.0/Packages/Basic Teleop/teleop-d2a": {
     "__comp": "17896441",
     "content": "bf8f5a50"
   },
-  "/luci-ros2-sdk-docs/Packages/GRPC Interface/grpc_package-6f2": {
+  "/luci-ros2-sdk-docs/v1.2.0/Packages/GRPC Interface/grpc_package-fcd": {
     "__comp": "17896441",
     "content": "9621db55"
   },
-  "/luci-ros2-sdk-docs/Packages/Messages/msgs_package-f1c": {
+  "/luci-ros2-sdk-docs/v1.2.0/Packages/Messages/msgs_package-ba7": {
     "__comp": "17896441",
     "content": "da8498f9"
   },
-  "/luci-ros2-sdk-docs/Packages/Third Party/placeholder-b31": {
+  "/luci-ros2-sdk-docs/v1.2.0/Packages/Third Party/placeholder-bc6": {
     "__comp": "17896441",
     "content": "e015318e"
   },
-  "/luci-ros2-sdk-docs/Packages/Transforms/luci_transforms_package-d76": {
+  "/luci-ros2-sdk-docs/v1.2.0/Packages/Transforms/luci_transforms_package-f65": {
     "__comp": "17896441",
     "content": "4f0bd0fe"
+  },
+  "/luci-ros2-sdk-docs/-ea1": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "b7b8cc47"
+    },
+    "versionMetadata": "9ad260ca"
+  },
+  "/luci-ros2-sdk-docs/-ca1": {
+    "__comp": "17896441",
+    "content": "93018c3e"
+  },
+  "/luci-ros2-sdk-docs/How-To/code-of-conduct-825": {
+    "__comp": "17896441",
+    "content": "91afe055"
+  },
+  "/luci-ros2-sdk-docs/How-To/CONTRIBUTING-ce1": {
+    "__comp": "17896441",
+    "content": "1d591085"
+  },
+  "/luci-ros2-sdk-docs/How-To/Examples/examples-f52": {
+    "__comp": "17896441",
+    "content": "1710880c"
+  },
+  "/luci-ros2-sdk-docs/How-To/Getting-Started/-59b": {
+    "__comp": "17896441",
+    "content": "5db23fdd"
+  },
+  "/luci-ros2-sdk-docs/How-To/Getting-Started/docker-f8e": {
+    "__comp": "17896441",
+    "content": "ff8307d5"
+  },
+  "/luci-ros2-sdk-docs/How-To/Installation/dependencies-652": {
+    "__comp": "17896441",
+    "content": "b8310ccd"
+  },
+  "/luci-ros2-sdk-docs/How-To/Installation/install-grpc-ca4": {
+    "__comp": "17896441",
+    "content": "53e8a6d4"
+  },
+  "/luci-ros2-sdk-docs/How-To/Installation/install-protobuf-f1a": {
+    "__comp": "17896441",
+    "content": "623ff320"
+  },
+  "/luci-ros2-sdk-docs/How-To/Installation/luci-ros2-sdk-install-518": {
+    "__comp": "17896441",
+    "content": "96710f90"
+  },
+  "/luci-ros2-sdk-docs/How-To/Installation/ros-install-ecf": {
+    "__comp": "17896441",
+    "content": "eeab04b8"
+  },
+  "/luci-ros2-sdk-docs/How-To/troubleshooting-7bc": {
+    "__comp": "17896441",
+    "content": "395629c0"
+  },
+  "/luci-ros2-sdk-docs/Packages/Basic Teleop/teleop-fba": {
+    "__comp": "17896441",
+    "content": "e116c3ea"
+  },
+  "/luci-ros2-sdk-docs/Packages/GRPC Interface/grpc_package-745": {
+    "__comp": "17896441",
+    "content": "cbec116d"
+  },
+  "/luci-ros2-sdk-docs/Packages/Messages/msgs_package-645": {
+    "__comp": "17896441",
+    "content": "aeae0022"
+  },
+  "/luci-ros2-sdk-docs/Packages/Third Party/placeholder-94b": {
+    "__comp": "17896441",
+    "content": "6087c328"
+  },
+  "/luci-ros2-sdk-docs/Packages/Transforms/luci_transforms_package-b8b": {
+    "__comp": "17896441",
+    "content": "d6d2b443"
   }
 }

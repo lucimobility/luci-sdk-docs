@@ -1,0 +1,24 @@
+{
+  "unversionedId": "How-To/Getting-Started/getting-started",
+  "id": "version-test/How-To/Getting-Started/getting-started",
+  "title": "Getting Started",
+  "description": "Docker",
+  "source": "@site/versioned_docs/version-test/2_How-To/1_Getting-Started/1_getting-started.md",
+  "sourceDirName": "2_How-To/1_Getting-Started",
+  "slug": "/How-To/Getting-Started/",
+  "permalink": "/luci-ros2-sdk-docs/How-To/Getting-Started/",
+  "draft": false,
+  "tags": [],
+  "version": "test",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK Documentation",
+    "permalink": "/luci-ros2-sdk-docs/"
+  },
+  "next": {
+    "title": "docker",
+    "permalink": "/luci-ros2-sdk-docs/How-To/Getting-Started/docker"
+  }
+}
