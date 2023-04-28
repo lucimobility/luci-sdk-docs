@@ -107,8 +107,8 @@
           }
         },
         {
-          "name": "v1.2.0",
-          "label": "v1.2.0",
+          "name": "v1.2.1",
+          "label": "v1.2.1",
           "isLast": true,
           "path": "/luci-ros2-sdk-docs/",
           "mainDocId": "intro",
@@ -204,6 +204,109 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/luci-ros2-sdk-docs/",
+                "label": "version-v1.2.1/intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "v1.2.0",
+          "label": "v1.2.0",
+          "isLast": false,
+          "path": "/luci-ros2-sdk-docs/v1.2.0",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "How-To/code-of-conduct",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/code-of-conduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/CONTRIBUTING",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Examples/examples",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Examples/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Getting-Started/docker",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Getting-Started/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Getting-Started/getting-started",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Getting-Started/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/dependencies",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/dependencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/install-grpc",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/install-grpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/install-protobuf",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/install-protobuf",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/luci-ros2-sdk-install",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/luci-ros2-sdk-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/Installation/ros-install",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/Installation/ros-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How-To/troubleshooting",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/How-To/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Basic Teleop/teleop",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/Packages/Basic Teleop/teleop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/GRPC Interface/grpc_package",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/Packages/GRPC Interface/grpc_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Messages/msgs_package",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/Packages/Messages/msgs_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Third Party/placeholder",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/Packages/Third Party/placeholder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Transforms/luci_transforms_package",
+              "path": "/luci-ros2-sdk-docs/v1.2.0/Packages/Transforms/luci_transforms_package",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/luci-ros2-sdk-docs/v1.2.0/",
                 "label": "version-v1.2.0/intro"
               }
             }
