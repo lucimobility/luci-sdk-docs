@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Getting Started",
-    "permalink": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/"
+    "title": "docker",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/docker"
   },
   "next": {
     "title": "Install ROS2 Galactic",

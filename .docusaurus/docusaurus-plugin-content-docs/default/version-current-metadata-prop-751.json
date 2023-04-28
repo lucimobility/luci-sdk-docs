@@ -22,10 +22,19 @@
         "collapsed": true,
         "items": [
           {
-            "type": "link",
+            "type": "category",
             "label": "Getting Started",
-            "href": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/",
-            "docId": "How-To/Getting-Started/getting-started"
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "docker",
+                "href": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/docker",
+                "docId": "How-To/Getting-Started/docker"
+              }
+            ],
+            "href": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/"
           },
           {
             "type": "category",
@@ -195,13 +204,19 @@
     "How-To/Examples/examples": {
       "id": "How-To/Examples/examples",
       "title": "SDK Examples",
-      "description": "Example 1 Receive Data from LUCI:",
+      "description": "Docker Example",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To/Getting-Started/docker": {
+      "id": "How-To/Getting-Started/docker",
+      "title": "docker",
+      "description": "Docker",
       "sidebar": "tutorialSidebar"
     },
     "How-To/Getting-Started/getting-started": {
       "id": "How-To/Getting-Started/getting-started",
       "title": "Getting Started",
-      "description": "Setting up your development machine",
+      "description": "Docker",
       "sidebar": "tutorialSidebar"
     },
     "How-To/Installation/dependencies": {

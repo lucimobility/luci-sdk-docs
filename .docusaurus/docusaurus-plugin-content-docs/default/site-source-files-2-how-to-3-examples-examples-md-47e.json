@@ -2,7 +2,7 @@
   "unversionedId": "How-To/Examples/examples",
   "id": "How-To/Examples/examples",
   "title": "SDK Examples",
-  "description": "Example 1 Receive Data from LUCI:",
+  "description": "Docker Example",
   "source": "@site/source_files/2_How-To/3_Examples/examples.md",
   "sourceDirName": "2_How-To/3_Examples",
   "slug": "/How-To/Examples/examples",

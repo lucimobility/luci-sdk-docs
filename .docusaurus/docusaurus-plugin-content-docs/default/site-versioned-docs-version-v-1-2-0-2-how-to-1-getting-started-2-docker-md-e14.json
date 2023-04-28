@@ -1,0 +1,24 @@
+{
+  "unversionedId": "How-To/Getting-Started/docker",
+  "id": "version-v1.2.0/How-To/Getting-Started/docker",
+  "title": "docker",
+  "description": "Docker",
+  "source": "@site/versioned_docs/version-v1.2.0/2_How-To/1_Getting-Started/2_docker.md",
+  "sourceDirName": "2_How-To/1_Getting-Started",
+  "slug": "/How-To/Getting-Started/docker",
+  "permalink": "/luci-ros2-sdk-docs/How-To/Getting-Started/docker",
+  "draft": false,
+  "tags": [],
+  "version": "v1.2.0",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/luci-ros2-sdk-docs/How-To/Getting-Started/"
+  },
+  "next": {
+    "title": "Installing Basic System Dependencies",
+    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/dependencies"
+  }
+}
