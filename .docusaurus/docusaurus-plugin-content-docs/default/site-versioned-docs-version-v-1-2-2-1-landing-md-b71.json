@@ -1,0 +1,24 @@
+{
+  "unversionedId": "intro",
+  "id": "version-v1.2.2/intro",
+  "title": "SDK Documentation",
+  "description": "This SDK makes the LUCI platform, sensor information and a control interface, available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you will need a LUCI enabled chair updated to LuciCore Sandbox Edition, Version 1.5.2 or greater. If you are interested in gaining access to the Sandbox, contact info@luci.com.",
+  "source": "@site/versioned_docs/version-v1.2.2/1_Landing.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/luci-ros2-sdk-docs/",
+  "draft": false,
+  "tags": [],
+  "version": "v1.2.2",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "intro",
+    "title": "SDK Documentation",
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/luci-ros2-sdk-docs/How-To/Getting-Started/"
+  }
+}

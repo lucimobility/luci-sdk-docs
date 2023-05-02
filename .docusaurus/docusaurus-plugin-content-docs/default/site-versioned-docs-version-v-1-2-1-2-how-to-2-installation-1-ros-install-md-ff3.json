@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.1/2_How-To/2_Installation/1_ros-install.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/ros-install",
-  "permalink": "/luci-ros2-sdk-docs/How-To/Installation/ros-install",
+  "permalink": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/ros-install",
   "draft": false,
   "tags": [],
   "version": "v1.2.1",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installing Basic System Dependencies",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/dependencies"
+    "permalink": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/dependencies"
   },
   "next": {
     "title": "Install Protobuf",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/install-protobuf"
+    "permalink": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/install-protobuf"
   }
 }
