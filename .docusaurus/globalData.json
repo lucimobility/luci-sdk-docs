@@ -26,6 +26,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "How-To/Examples/slam",
+              "path": "/luci-ros2-sdk-docs/next/How-To/Examples/slam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How-To/Getting-Started/docker",
               "path": "/luci-ros2-sdk-docs/next/How-To/Getting-Started/docker",
               "sidebar": "tutorialSidebar"

@@ -85,6 +85,12 @@
                 "label": "SDK Examples",
                 "href": "/luci-ros2-sdk-docs/next/How-To/Examples/examples",
                 "docId": "How-To/Examples/examples"
+              },
+              {
+                "type": "link",
+                "label": "SLAM (Simultaneous Localization and Mapping)",
+                "href": "/luci-ros2-sdk-docs/next/How-To/Examples/slam",
+                "docId": "How-To/Examples/slam"
               }
             ]
           },
@@ -205,6 +211,12 @@
       "id": "How-To/Examples/examples",
       "title": "SDK Examples",
       "description": "Docker Example",
+      "sidebar": "tutorialSidebar"
+    },
+    "How-To/Examples/slam": {
+      "id": "How-To/Examples/slam",
+      "title": "SLAM (Simultaneous Localization and Mapping)",
+      "description": "SLAM is a very useful application for autonomous or semi-autonomous robot navigation.",
       "sidebar": "tutorialSidebar"
     },
     "How-To/Getting-Started/docker": {

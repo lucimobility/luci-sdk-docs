@@ -6,7 +6,7 @@
     },
     "content": "393be207"
   },
-  "/luci-ros2-sdk-docs/next-af8": {
+  "/luci-ros2-sdk-docs/next-4eb": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "b7b8cc47"
@@ -28,6 +28,10 @@
   "/luci-ros2-sdk-docs/next/How-To/Examples/examples-0a2": {
     "__comp": "17896441",
     "content": "47ecdc13"
+  },
+  "/luci-ros2-sdk-docs/next/How-To/Examples/slam-465": {
+    "__comp": "17896441",
+    "content": "6f7f7bfb"
   },
   "/luci-ros2-sdk-docs/next/How-To/Getting-Started/-512": {
     "__comp": "17896441",

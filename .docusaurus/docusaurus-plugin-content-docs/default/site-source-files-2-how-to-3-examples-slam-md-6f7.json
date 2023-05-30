@@ -1,0 +1,23 @@
+{
+  "unversionedId": "How-To/Examples/slam",
+  "id": "How-To/Examples/slam",
+  "title": "SLAM (Simultaneous Localization and Mapping)",
+  "description": "SLAM is a very useful application for autonomous or semi-autonomous robot navigation.",
+  "source": "@site/source_files/2_How-To/3_Examples/slam.md",
+  "sourceDirName": "2_How-To/3_Examples",
+  "slug": "/How-To/Examples/slam",
+  "permalink": "/luci-ros2-sdk-docs/next/How-To/Examples/slam",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK Examples",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Examples/examples"
+  },
+  "next": {
+    "title": "How to Contribute",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/CONTRIBUTING"
+  }
+}

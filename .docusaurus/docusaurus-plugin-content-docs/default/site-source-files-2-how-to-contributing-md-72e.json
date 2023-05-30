@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SDK Examples",
-    "permalink": "/luci-ros2-sdk-docs/next/How-To/Examples/examples"
+    "title": "SLAM (Simultaneous Localization and Mapping)",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Examples/slam"
   },
   "next": {
     "title": "LUCI Code of Conduct",

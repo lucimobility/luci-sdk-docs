@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/luci-ros2-sdk-docs/next',
-    component: ComponentCreator('/luci-ros2-sdk-docs/next', 'af8'),
+    component: ComponentCreator('/luci-ros2-sdk-docs/next', '4eb'),
     routes: [
       {
         path: '/luci-ros2-sdk-docs/next/',
@@ -32,6 +32,12 @@ export default [
       {
         path: '/luci-ros2-sdk-docs/next/How-To/Examples/examples',
         component: ComponentCreator('/luci-ros2-sdk-docs/next/How-To/Examples/examples', '0a2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-ros2-sdk-docs/next/How-To/Examples/slam',
+        component: ComponentCreator('/luci-ros2-sdk-docs/next/How-To/Examples/slam', '465'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

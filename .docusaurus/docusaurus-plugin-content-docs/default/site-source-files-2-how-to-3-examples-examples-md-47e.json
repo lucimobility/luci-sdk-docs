@@ -17,7 +17,7 @@
     "permalink": "/luci-ros2-sdk-docs/next/How-To/Installation/luci-ros2-sdk-install"
   },
   "next": {
-    "title": "How to Contribute",
-    "permalink": "/luci-ros2-sdk-docs/next/How-To/CONTRIBUTING"
+    "title": "SLAM (Simultaneous Localization and Mapping)",
+    "permalink": "/luci-ros2-sdk-docs/next/How-To/Examples/slam"
   }
 }
