@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ROS2 SDK/How-To/Installation/ros-install",
+  "id": "ROS2 SDK/How-To/Installation/ros-install",
+  "title": "Install ROS2 Galactic",
+  "description": "Instructions from the official ROS maintainers can be found here https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html but the steps we assume you run will be listed below",
+  "source": "@site/source_files/1_ROS2 SDK/2_How-To/2_Installation/1_ros-install.md",
+  "sourceDirName": "1_ROS2 SDK/2_How-To/2_Installation",
+  "slug": "/ROS2 SDK/How-To/Installation/ros-install",
+  "permalink": "/luci-ros2-sdk-docs/next/ROS2 SDK/How-To/Installation/ros-install",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Installing Basic System Dependencies",
+    "permalink": "/luci-ros2-sdk-docs/next/ROS2 SDK/How-To/Installation/dependencies"
+  },
+  "next": {
+    "title": "Install Protobuf",
+    "permalink": "/luci-ros2-sdk-docs/next/ROS2 SDK/How-To/Installation/install-protobuf"
+  }
+}

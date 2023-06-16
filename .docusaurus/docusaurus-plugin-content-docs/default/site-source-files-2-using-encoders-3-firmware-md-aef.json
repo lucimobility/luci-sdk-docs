@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Using Encoders/firmware",
+  "id": "Using Encoders/firmware",
+  "title": "Firmware",
+  "description": "GitHub repo",
+  "source": "@site/source_files/2_Using Encoders/3_firmware.md",
+  "sourceDirName": "2_Using Encoders",
+  "slug": "/Using Encoders/firmware",
+  "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/firmware",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Shield",
+    "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/shield"
+  },
+  "next": {
+    "title": "How to Contribute",
+    "permalink": "/luci-ros2-sdk-docs/next/CONTRIBUTING"
+  }
+}

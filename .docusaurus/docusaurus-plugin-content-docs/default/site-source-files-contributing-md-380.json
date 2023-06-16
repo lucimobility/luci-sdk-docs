@@ -1,0 +1,23 @@
+{
+  "unversionedId": "CONTRIBUTING",
+  "id": "CONTRIBUTING",
+  "title": "How to Contribute",
+  "description": "This project welcomes third-party code via pull requests.",
+  "source": "@site/source_files/CONTRIBUTING.md",
+  "sourceDirName": ".",
+  "slug": "/CONTRIBUTING",
+  "permalink": "/luci-ros2-sdk-docs/next/CONTRIBUTING",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Firmware",
+    "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/firmware"
+  },
+  "next": {
+    "title": "LUCI Code of Conduct",
+    "permalink": "/luci-ros2-sdk-docs/next/code-of-conduct"
+  }
+}

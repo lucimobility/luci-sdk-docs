@@ -26,12 +26,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/runner/work/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk-docs/sidebars.js",
+          "sidebarPath": "/__w/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk/tmp/luci-ros2-sdk-docs/sidebars.js",
           "path": "source_files",
           "routeBasePath": "/"
         },
         "theme": {
-          "customCss": "/home/runner/work/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk-docs/src/css/custom.css"
+          "customCss": "/__w/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk/tmp/luci-ros2-sdk-docs/src/css/custom.css"
         }
       }
     ]

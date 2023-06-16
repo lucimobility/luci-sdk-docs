@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Using Encoders/shield",
+  "id": "Using Encoders/shield",
+  "title": "Shield",
+  "description": "Shield",
+  "source": "@site/source_files/2_Using Encoders/2_shield.md",
+  "sourceDirName": "2_Using Encoders",
+  "slug": "/Using Encoders/shield",
+  "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/shield",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Encoders",
+    "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/encoders"
+  },
+  "next": {
+    "title": "Firmware",
+    "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/firmware"
+  }
+}

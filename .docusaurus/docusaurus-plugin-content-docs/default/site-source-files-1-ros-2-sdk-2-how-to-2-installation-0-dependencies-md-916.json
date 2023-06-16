@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ROS2 SDK/How-To/Installation/dependencies",
+  "id": "ROS2 SDK/How-To/Installation/dependencies",
+  "title": "Installing Basic System Dependencies",
+  "description": "Manual dependencies:",
+  "source": "@site/source_files/1_ROS2 SDK/2_How-To/2_Installation/0_dependencies.md",
+  "sourceDirName": "1_ROS2 SDK/2_How-To/2_Installation",
+  "slug": "/ROS2 SDK/How-To/Installation/dependencies",
+  "permalink": "/luci-ros2-sdk-docs/next/ROS2 SDK/How-To/Installation/dependencies",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "docker",
+    "permalink": "/luci-ros2-sdk-docs/next/ROS2 SDK/How-To/Getting-Started/docker"
+  },
+  "next": {
+    "title": "Install ROS2 Galactic",
+    "permalink": "/luci-ros2-sdk-docs/next/ROS2 SDK/How-To/Installation/ros-install"
+  }
+}
