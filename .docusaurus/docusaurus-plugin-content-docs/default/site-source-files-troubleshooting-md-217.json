@@ -6,7 +6,7 @@
   "source": "@site/source_files/troubleshooting.md",
   "sourceDirName": ".",
   "slug": "/troubleshooting",
-  "permalink": "/luci-ros2-sdk-docs/next/troubleshooting",
+  "permalink": "/luci-sdk-docs/next/troubleshooting",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,6 +14,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "LUCI Code of Conduct",
-    "permalink": "/luci-ros2-sdk-docs/next/code-of-conduct"
+    "permalink": "/luci-sdk-docs/next/code-of-conduct"
   }
 }

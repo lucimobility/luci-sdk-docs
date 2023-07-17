@@ -6,7 +6,7 @@
   "source": "@site/source_files/CONTRIBUTING.md",
   "sourceDirName": ".",
   "slug": "/CONTRIBUTING",
-  "permalink": "/luci-ros2-sdk-docs/next/CONTRIBUTING",
+  "permalink": "/luci-sdk-docs/next/CONTRIBUTING",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Firmware",
-    "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/firmware"
+    "permalink": "/luci-sdk-docs/next/Using Encoders/firmware"
   },
   "next": {
     "title": "LUCI Code of Conduct",
-    "permalink": "/luci-ros2-sdk-docs/next/code-of-conduct"
+    "permalink": "/luci-sdk-docs/next/code-of-conduct"
   }
 }

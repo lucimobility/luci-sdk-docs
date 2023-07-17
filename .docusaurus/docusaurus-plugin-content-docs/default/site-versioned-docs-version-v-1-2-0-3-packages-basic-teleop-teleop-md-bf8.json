@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.0/3_Packages/Basic Teleop/teleop.md",
   "sourceDirName": "3_Packages/Basic Teleop",
   "slug": "/Packages/Basic Teleop/teleop",
-  "permalink": "/luci-ros2-sdk-docs/v1.2.0/Packages/Basic Teleop/teleop",
+  "permalink": "/luci-sdk-docs/v1.2.0/Packages/Basic Teleop/teleop",
   "draft": false,
   "tags": [],
   "version": "v1.2.0",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Troubleshooting",
-    "permalink": "/luci-ros2-sdk-docs/v1.2.0/How-To/troubleshooting"
+    "permalink": "/luci-sdk-docs/v1.2.0/How-To/troubleshooting"
   },
   "next": {
     "title": "luci_grpc_interface",
-    "permalink": "/luci-ros2-sdk-docs/v1.2.0/Packages/GRPC Interface/grpc_package"
+    "permalink": "/luci-sdk-docs/v1.2.0/Packages/GRPC Interface/grpc_package"
   }
 }

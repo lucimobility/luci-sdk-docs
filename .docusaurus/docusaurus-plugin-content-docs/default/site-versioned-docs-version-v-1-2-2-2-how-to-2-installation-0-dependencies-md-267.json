@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.2/2_How-To/2_Installation/0_dependencies.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/dependencies",
-  "permalink": "/luci-ros2-sdk-docs/How-To/Installation/dependencies",
+  "permalink": "/luci-sdk-docs/How-To/Installation/dependencies",
   "draft": false,
   "tags": [],
   "version": "v1.2.2",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "docker",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Getting-Started/docker"
+    "permalink": "/luci-sdk-docs/How-To/Getting-Started/docker"
   },
   "next": {
     "title": "Install ROS2 Galactic",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/ros-install"
+    "permalink": "/luci-sdk-docs/How-To/Installation/ros-install"
   }
 }

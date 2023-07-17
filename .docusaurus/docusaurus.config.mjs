@@ -4,12 +4,12 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "ROS2 SDK",
-  "tagline": "SDK Documentation",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/luci-ros2-sdk-docs/",
+  "title": "LUCI SDK",
+  "tagline": "LUCI SDK Documentation",
+  "url": "https://lucimobility.github.io",
+  "baseUrl": "/luci-sdk-docs/",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenMarkdownLinks": "throw",
   "favicon": "img/sandbox-logo.ico",
   "organizationName": "facebook",
   "projectName": "docusaurus",
@@ -26,12 +26,12 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/__w/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk/tmp/luci-ros2-sdk-docs/sidebars.js",
+          "sidebarPath": "/__w/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk/tmp/luci-sdk-docs/sidebars.js",
           "path": "source_files",
           "routeBasePath": "/"
         },
         "theme": {
-          "customCss": "/__w/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk/tmp/luci-ros2-sdk-docs/src/css/custom.css"
+          "customCss": "/__w/luci-ros2-sdk/luci-ros2-sdk/luci-ros2-sdk/tmp/luci-sdk-docs/src/css/custom.css"
         }
       }
     ]

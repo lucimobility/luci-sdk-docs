@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.2/2_How-To/2_Installation/4_luci-ros2-sdk-install.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/luci-ros2-sdk-install",
-  "permalink": "/luci-ros2-sdk-docs/How-To/Installation/luci-ros2-sdk-install",
+  "permalink": "/luci-sdk-docs/How-To/Installation/luci-ros2-sdk-install",
   "draft": false,
   "tags": [],
   "version": "v1.2.2",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Install gRPC",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/install-grpc"
+    "permalink": "/luci-sdk-docs/How-To/Installation/install-grpc"
   },
   "next": {
     "title": "SDK Examples",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Examples/examples"
+    "permalink": "/luci-sdk-docs/How-To/Examples/examples"
   }
 }

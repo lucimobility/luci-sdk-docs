@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.1/3_Packages/GRPC Interface/grpc_package.md",
   "sourceDirName": "3_Packages/GRPC Interface",
   "slug": "/Packages/GRPC Interface/grpc_package",
-  "permalink": "/luci-ros2-sdk-docs/v1.2.1/Packages/GRPC Interface/grpc_package",
+  "permalink": "/luci-sdk-docs/v1.2.1/Packages/GRPC Interface/grpc_package",
   "draft": false,
   "tags": [],
   "version": "v1.2.1",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci_basic_teleop",
-    "permalink": "/luci-ros2-sdk-docs/v1.2.1/Packages/Basic Teleop/teleop"
+    "permalink": "/luci-sdk-docs/v1.2.1/Packages/Basic Teleop/teleop"
   },
   "next": {
     "title": "luci_messages",
-    "permalink": "/luci-ros2-sdk-docs/v1.2.1/Packages/Messages/msgs_package"
+    "permalink": "/luci-sdk-docs/v1.2.1/Packages/Messages/msgs_package"
   }
 }

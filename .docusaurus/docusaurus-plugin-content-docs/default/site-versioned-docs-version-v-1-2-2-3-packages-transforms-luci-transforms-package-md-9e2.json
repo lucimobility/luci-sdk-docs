@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.2/3_Packages/Transforms/luci_transforms_package.md",
   "sourceDirName": "3_Packages/Transforms",
   "slug": "/Packages/Transforms/luci_transforms_package",
-  "permalink": "/luci-ros2-sdk-docs/Packages/Transforms/luci_transforms_package",
+  "permalink": "/luci-sdk-docs/Packages/Transforms/luci_transforms_package",
   "draft": false,
   "tags": [],
   "version": "v1.2.2",
@@ -14,6 +14,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci-third-party",
-    "permalink": "/luci-ros2-sdk-docs/Packages/Third Party/placeholder"
+    "permalink": "/luci-sdk-docs/Packages/Third Party/placeholder"
   }
 }

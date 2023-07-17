@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "SDK Documentation",
-        "href": "/luci-ros2-sdk-docs/v1.2.1/",
+        "href": "/luci-sdk-docs/v1.2.1/",
         "docId": "intro"
       },
       {
@@ -30,11 +30,11 @@
               {
                 "type": "link",
                 "label": "docker",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Getting-Started/docker",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Getting-Started/docker",
                 "docId": "How-To/Getting-Started/docker"
               }
             ],
-            "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Getting-Started/"
+            "href": "/luci-sdk-docs/v1.2.1/How-To/Getting-Started/"
           },
           {
             "type": "category",
@@ -45,31 +45,31 @@
               {
                 "type": "link",
                 "label": "Installing Basic System Dependencies",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/dependencies",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Installation/dependencies",
                 "docId": "How-To/Installation/dependencies"
               },
               {
                 "type": "link",
                 "label": "Install ROS2 Galactic",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/ros-install",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Installation/ros-install",
                 "docId": "How-To/Installation/ros-install"
               },
               {
                 "type": "link",
                 "label": "Install Protobuf",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/install-protobuf",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Installation/install-protobuf",
                 "docId": "How-To/Installation/install-protobuf"
               },
               {
                 "type": "link",
                 "label": "Install gRPC",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/install-grpc",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Installation/install-grpc",
                 "docId": "How-To/Installation/install-grpc"
               },
               {
                 "type": "link",
                 "label": "Install LUCI ROS2 SDK",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Installation/luci-ros2-sdk-install",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Installation/luci-ros2-sdk-install",
                 "docId": "How-To/Installation/luci-ros2-sdk-install"
               }
             ]
@@ -83,7 +83,7 @@
               {
                 "type": "link",
                 "label": "SDK Examples",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/Examples/examples",
+                "href": "/luci-sdk-docs/v1.2.1/How-To/Examples/examples",
                 "docId": "How-To/Examples/examples"
               }
             ]
@@ -91,19 +91,19 @@
           {
             "type": "link",
             "label": "How to Contribute",
-            "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/CONTRIBUTING",
+            "href": "/luci-sdk-docs/v1.2.1/How-To/CONTRIBUTING",
             "docId": "How-To/CONTRIBUTING"
           },
           {
             "type": "link",
             "label": "LUCI Code of Conduct",
-            "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/code-of-conduct",
+            "href": "/luci-sdk-docs/v1.2.1/How-To/code-of-conduct",
             "docId": "How-To/code-of-conduct"
           },
           {
             "type": "link",
             "label": "Troubleshooting",
-            "href": "/luci-ros2-sdk-docs/v1.2.1/How-To/troubleshooting",
+            "href": "/luci-sdk-docs/v1.2.1/How-To/troubleshooting",
             "docId": "How-To/troubleshooting"
           }
         ]
@@ -123,7 +123,7 @@
               {
                 "type": "link",
                 "label": "luci_basic_teleop",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/Packages/Basic Teleop/teleop",
+                "href": "/luci-sdk-docs/v1.2.1/Packages/Basic Teleop/teleop",
                 "docId": "Packages/Basic Teleop/teleop"
               }
             ]
@@ -137,7 +137,7 @@
               {
                 "type": "link",
                 "label": "luci_grpc_interface",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/Packages/GRPC Interface/grpc_package",
+                "href": "/luci-sdk-docs/v1.2.1/Packages/GRPC Interface/grpc_package",
                 "docId": "Packages/GRPC Interface/grpc_package"
               }
             ]
@@ -151,7 +151,7 @@
               {
                 "type": "link",
                 "label": "luci_messages",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/Packages/Messages/msgs_package",
+                "href": "/luci-sdk-docs/v1.2.1/Packages/Messages/msgs_package",
                 "docId": "Packages/Messages/msgs_package"
               }
             ]
@@ -165,7 +165,7 @@
               {
                 "type": "link",
                 "label": "luci-third-party",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/Packages/Third Party/placeholder",
+                "href": "/luci-sdk-docs/v1.2.1/Packages/Third Party/placeholder",
                 "docId": "Packages/Third Party/placeholder"
               }
             ]
@@ -179,7 +179,7 @@
               {
                 "type": "link",
                 "label": "luci_transforms",
-                "href": "/luci-ros2-sdk-docs/v1.2.1/Packages/Transforms/luci_transforms_package",
+                "href": "/luci-sdk-docs/v1.2.1/Packages/Transforms/luci_transforms_package",
                 "docId": "Packages/Transforms/luci_transforms_package"
               }
             ]

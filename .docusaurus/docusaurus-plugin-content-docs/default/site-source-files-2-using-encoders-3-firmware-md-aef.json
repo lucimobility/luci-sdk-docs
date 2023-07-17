@@ -6,7 +6,7 @@
   "source": "@site/source_files/2_Using Encoders/3_firmware.md",
   "sourceDirName": "2_Using Encoders",
   "slug": "/Using Encoders/firmware",
-  "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/firmware",
+  "permalink": "/luci-sdk-docs/next/Using Encoders/firmware",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Shield",
-    "permalink": "/luci-ros2-sdk-docs/next/Using Encoders/shield"
+    "permalink": "/luci-sdk-docs/next/Using Encoders/shield"
   },
   "next": {
     "title": "How to Contribute",
-    "permalink": "/luci-ros2-sdk-docs/next/CONTRIBUTING"
+    "permalink": "/luci-sdk-docs/next/CONTRIBUTING"
   }
 }

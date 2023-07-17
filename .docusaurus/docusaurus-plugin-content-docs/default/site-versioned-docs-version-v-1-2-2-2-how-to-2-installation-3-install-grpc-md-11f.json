@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.2/2_How-To/2_Installation/3_install-grpc.md",
   "sourceDirName": "2_How-To/2_Installation",
   "slug": "/How-To/Installation/install-grpc",
-  "permalink": "/luci-ros2-sdk-docs/How-To/Installation/install-grpc",
+  "permalink": "/luci-sdk-docs/How-To/Installation/install-grpc",
   "draft": false,
   "tags": [],
   "version": "v1.2.2",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Install Protobuf",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/install-protobuf"
+    "permalink": "/luci-sdk-docs/How-To/Installation/install-protobuf"
   },
   "next": {
     "title": "Install LUCI ROS2 SDK",
-    "permalink": "/luci-ros2-sdk-docs/How-To/Installation/luci-ros2-sdk-install"
+    "permalink": "/luci-sdk-docs/How-To/Installation/luci-ros2-sdk-install"
   }
 }

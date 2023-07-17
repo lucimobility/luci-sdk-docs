@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.2/3_Packages/Messages/msgs_package.md",
   "sourceDirName": "3_Packages/Messages",
   "slug": "/Packages/Messages/msgs_package",
-  "permalink": "/luci-ros2-sdk-docs/Packages/Messages/msgs_package",
+  "permalink": "/luci-sdk-docs/Packages/Messages/msgs_package",
   "draft": false,
   "tags": [],
   "version": "v1.2.2",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci_grpc_interface",
-    "permalink": "/luci-ros2-sdk-docs/Packages/GRPC Interface/grpc_package"
+    "permalink": "/luci-sdk-docs/Packages/GRPC Interface/grpc_package"
   },
   "next": {
     "title": "luci-third-party",
-    "permalink": "/luci-ros2-sdk-docs/Packages/Third Party/placeholder"
+    "permalink": "/luci-sdk-docs/Packages/Third Party/placeholder"
   }
 }
