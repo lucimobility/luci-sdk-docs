@@ -6,12 +6,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ROS2 SDK',
-  tagline: 'SDK Documentation',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/luci-ros2-sdk-docs/',
+  title: 'LUCI SDK',
+  tagline: 'LUCI SDK Documentation',
+  url: 'https://lucimobility.github.io',
+  baseUrl: '/luci-sdk-docs/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/sandbox-logo.ico',
 
   // GitHub pages deployment config.
