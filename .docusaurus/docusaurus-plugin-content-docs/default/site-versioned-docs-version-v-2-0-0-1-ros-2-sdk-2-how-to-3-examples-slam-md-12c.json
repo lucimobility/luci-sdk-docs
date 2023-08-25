@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ROS2 SDK/How-To/Examples/slam",
+  "id": "version-v2.0.0/ROS2 SDK/How-To/Examples/slam",
+  "title": "SLAM (Simultaneous Localization and Mapping)",
+  "description": "SLAM is a very useful application for autonomous or semi-autonomous robot navigation.",
+  "source": "@site/versioned_docs/version-v2.0.0/1_ROS2 SDK/2_How-To/3_Examples/slam.md",
+  "sourceDirName": "1_ROS2 SDK/2_How-To/3_Examples",
+  "slug": "/ROS2 SDK/How-To/Examples/slam",
+  "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam",
+  "draft": false,
+  "tags": [],
+  "version": "v2.0.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SDK Examples",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/examples"
+  },
+  "next": {
+    "title": "luci_basic_teleop",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop"
+  }
+}

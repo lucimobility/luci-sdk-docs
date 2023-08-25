@@ -554,108 +554,234 @@ export default [
     ]
   },
   {
+    path: '/luci-sdk-docs/v1.2.2',
+    component: ComponentCreator('/luci-sdk-docs/v1.2.2', '3b8'),
+    routes: [
+      {
+        path: '/luci-sdk-docs/v1.2.2/',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/', '040'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/code-of-conduct',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/code-of-conduct', 'af6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/CONTRIBUTING',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/CONTRIBUTING', '513'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Examples/examples',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Examples/examples', '913'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Getting-Started/',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Getting-Started/', '51c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Getting-Started/docker',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Getting-Started/docker', '8ac'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Installation/dependencies',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Installation/dependencies', 'a5d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Installation/install-grpc',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Installation/install-grpc', 'ac6'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Installation/install-protobuf',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Installation/install-protobuf', '80f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Installation/luci-ros2-sdk-install',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Installation/luci-ros2-sdk-install', 'fd2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/Installation/ros-install',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/Installation/ros-install', 'c93'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/How-To/troubleshooting',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/How-To/troubleshooting', 'cf2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/Packages/Basic Teleop/teleop',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/Packages/Basic Teleop/teleop', '30e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/Packages/GRPC Interface/grpc_package',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/Packages/GRPC Interface/grpc_package', 'f97'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/Packages/Messages/msgs_package',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/Packages/Messages/msgs_package', 'a4e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/Packages/Third Party/placeholder',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/Packages/Third Party/placeholder', '2d1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v1.2.2/Packages/Transforms/luci_transforms_package',
+        component: ComponentCreator('/luci-sdk-docs/v1.2.2/Packages/Transforms/luci_transforms_package', '7bd'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      }
+    ]
+  },
+  {
     path: '/luci-sdk-docs/',
-    component: ComponentCreator('/luci-sdk-docs/', '09f'),
+    component: ComponentCreator('/luci-sdk-docs/', '3f3'),
     routes: [
       {
         path: '/luci-sdk-docs/',
-        component: ComponentCreator('/luci-sdk-docs/', '17f'),
+        component: ComponentCreator('/luci-sdk-docs/', 'bd9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/code-of-conduct',
-        component: ComponentCreator('/luci-sdk-docs/How-To/code-of-conduct', '5af'),
+        path: '/luci-sdk-docs/code-of-conduct',
+        component: ComponentCreator('/luci-sdk-docs/code-of-conduct', 'c2d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/CONTRIBUTING',
-        component: ComponentCreator('/luci-sdk-docs/How-To/CONTRIBUTING', '449'),
+        path: '/luci-sdk-docs/CONTRIBUTING',
+        component: ComponentCreator('/luci-sdk-docs/CONTRIBUTING', '568'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Examples/examples',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Examples/examples', 'd95'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Examples/examples',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Examples/examples', '19b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Getting-Started/',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Getting-Started/', 'eaa'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam', '8c3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Getting-Started/docker',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Getting-Started/docker', 'a6e'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/', '5f1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Installation/dependencies',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Installation/dependencies', '8cf'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/docker',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/docker', '560'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Installation/install-grpc',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Installation/install-grpc', '319'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Installation/dependencies',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Installation/dependencies', 'a96'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Installation/install-protobuf',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Installation/install-protobuf', '77b'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc', 'b63'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Installation/luci-ros2-sdk-install',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Installation/luci-ros2-sdk-install', '064'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install', '2de'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/Installation/ros-install',
-        component: ComponentCreator('/luci-sdk-docs/How-To/Installation/ros-install', '7a1'),
+        path: '/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install', 'b4e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/How-To/troubleshooting',
-        component: ComponentCreator('/luci-sdk-docs/How-To/troubleshooting', 'bd4'),
+        path: '/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop', '36e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/Packages/Basic Teleop/teleop',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Basic Teleop/teleop', '10e'),
+        path: '/luci-sdk-docs/ROS2 SDK/Packages/GRPC Interface/grpc_package',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/Packages/GRPC Interface/grpc_package', 'cb1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/Packages/GRPC Interface/grpc_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/GRPC Interface/grpc_package', '0f0'),
+        path: '/luci-sdk-docs/ROS2 SDK/Packages/Messages/msgs_package',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/Packages/Messages/msgs_package', 'b0e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/Packages/Messages/msgs_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Messages/msgs_package', 'a08'),
+        path: '/luci-sdk-docs/ROS2 SDK/Packages/Third Party/third_party_package',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/Packages/Third Party/third_party_package', '39c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/Packages/Third Party/placeholder',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Third Party/placeholder', 'dae'),
+        path: '/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package',
+        component: ComponentCreator('/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package', '701'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/Packages/Transforms/luci_transforms_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Transforms/luci_transforms_package', '0a6'),
+        path: '/luci-sdk-docs/troubleshooting',
+        component: ComponentCreator('/luci-sdk-docs/troubleshooting', '5f5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/Using Encoders/encoders',
+        component: ComponentCreator('/luci-sdk-docs/Using Encoders/encoders', '397'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/Using Encoders/firmware',
+        component: ComponentCreator('/luci-sdk-docs/Using Encoders/firmware', '9cb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/Using Encoders/shield',
+        component: ComponentCreator('/luci-sdk-docs/Using Encoders/shield', '423'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

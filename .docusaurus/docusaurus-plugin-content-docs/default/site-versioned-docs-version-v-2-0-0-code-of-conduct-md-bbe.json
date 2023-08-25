@@ -1,0 +1,23 @@
+{
+  "unversionedId": "code-of-conduct",
+  "id": "version-v2.0.0/code-of-conduct",
+  "title": "LUCI Code of Conduct",
+  "description": "Our Pledge",
+  "source": "@site/versioned_docs/version-v2.0.0/code-of-conduct.md",
+  "sourceDirName": ".",
+  "slug": "/code-of-conduct",
+  "permalink": "/luci-sdk-docs/code-of-conduct",
+  "draft": false,
+  "tags": [],
+  "version": "v2.0.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Contribute",
+    "permalink": "/luci-sdk-docs/CONTRIBUTING"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/luci-sdk-docs/troubleshooting"
+  }
+}

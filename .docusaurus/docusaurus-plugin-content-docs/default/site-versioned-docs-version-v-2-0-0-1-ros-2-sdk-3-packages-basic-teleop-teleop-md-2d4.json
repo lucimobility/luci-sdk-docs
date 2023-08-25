@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ROS2 SDK/Packages/Basic Teleop/teleop",
+  "id": "version-v2.0.0/ROS2 SDK/Packages/Basic Teleop/teleop",
+  "title": "luci_basic_teleop",
+  "description": "The lucibasicteleop package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
+  "source": "@site/versioned_docs/version-v2.0.0/1_ROS2 SDK/3_Packages/Basic Teleop/teleop.md",
+  "sourceDirName": "1_ROS2 SDK/3_Packages/Basic Teleop",
+  "slug": "/ROS2 SDK/Packages/Basic Teleop/teleop",
+  "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop",
+  "draft": false,
+  "tags": [],
+  "version": "v2.0.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SLAM (Simultaneous Localization and Mapping)",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam"
+  },
+  "next": {
+    "title": "luci_grpc_interface",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/GRPC Interface/grpc_package"
+  }
+}

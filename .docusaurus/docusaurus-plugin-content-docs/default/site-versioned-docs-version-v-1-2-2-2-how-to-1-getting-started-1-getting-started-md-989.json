@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v1.2.2/2_How-To/1_Getting-Started/1_getting-started.md",
   "sourceDirName": "2_How-To/1_Getting-Started",
   "slug": "/How-To/Getting-Started/",
-  "permalink": "/luci-sdk-docs/How-To/Getting-Started/",
+  "permalink": "/luci-sdk-docs/v1.2.2/How-To/Getting-Started/",
   "draft": false,
   "tags": [],
   "version": "v1.2.2",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK Documentation",
-    "permalink": "/luci-sdk-docs/"
+    "permalink": "/luci-sdk-docs/v1.2.2/"
   },
   "next": {
     "title": "docker",
-    "permalink": "/luci-sdk-docs/How-To/Getting-Started/docker"
+    "permalink": "/luci-sdk-docs/v1.2.2/How-To/Getting-Started/docker"
   }
 }
