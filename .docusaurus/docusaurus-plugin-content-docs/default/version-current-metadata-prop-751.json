@@ -159,8 +159,8 @@
                   {
                     "type": "link",
                     "label": "luci-third-party",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/placeholder",
-                    "docId": "ROS2 SDK/Packages/Third Party/placeholder"
+                    "href": "/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/third_party_package",
+                    "docId": "ROS2 SDK/Packages/Third Party/third_party_package"
                   }
                 ]
               },
@@ -319,10 +319,10 @@
       "description": "summary:",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/Packages/Third Party/placeholder": {
-      "id": "ROS2 SDK/Packages/Third Party/placeholder",
+    "ROS2 SDK/Packages/Third Party/third_party_package": {
+      "id": "ROS2 SDK/Packages/Third Party/third_party_package",
       "title": "luci-third-party",
-      "description": "There are currently no third party packages in this release",
+      "description": "Wheelchair launch file",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/Packages/Transforms/luci_transforms_package": {

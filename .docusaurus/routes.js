@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/luci-sdk-docs/next',
-    component: ComponentCreator('/luci-sdk-docs/next', '05b'),
+    component: ComponentCreator('/luci-sdk-docs/next', 'a51'),
     routes: [
       {
         path: '/luci-sdk-docs/next/',
@@ -102,8 +102,8 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/placeholder',
-        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/placeholder', 'd3e'),
+        path: '/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/third_party_package',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/third_party_package', '322'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

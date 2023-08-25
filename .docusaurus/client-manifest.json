@@ -333,6 +333,9 @@
     "def71937": [
       2269
     ],
+    "df6152c6": [
+      51
+    ],
     "dfb05ebc": [
       7458
     ],
@@ -360,9 +363,6 @@
     "ee2d3ef3": [
       2599
     ],
-    "f37e74d0": [
-      5048
-    ],
     "f8035b0c": [
       800
     ],
@@ -386,12 +386,21 @@
     ]
   },
   "assets": {
+    "51": {
+      "js": [
+        {
+          "file": "assets/js/df6152c6.0702f199.js",
+          "hash": "eaa104111344c86c",
+          "publicPath": "/luci-sdk-docs/assets/js/df6152c6.0702f199.js"
+        }
+      ]
+    },
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.70dae27d.js",
-          "hash": "ebaf1d9f49c028ea",
-          "publicPath": "/luci-sdk-docs/assets/js/935f2afb.70dae27d.js"
+          "file": "assets/js/935f2afb.b5de2c6a.js",
+          "hash": "8fa5f4375d383f6a",
+          "publicPath": "/luci-sdk-docs/assets/js/935f2afb.b5de2c6a.js"
         }
       ]
     },
@@ -416,9 +425,9 @@
     "179": {
       "js": [
         {
-          "file": "assets/js/main.d2d0e490.js",
-          "hash": "ebc2530827223497",
-          "publicPath": "/luci-sdk-docs/assets/js/main.d2d0e490.js"
+          "file": "assets/js/main.a4fc881a.js",
+          "hash": "17bf8cfe6a1b3fae",
+          "publicPath": "/luci-sdk-docs/assets/js/main.a4fc881a.js"
         }
       ]
     },
@@ -560,9 +569,9 @@
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.9faf98e3.js",
-          "hash": "f928fec4cc587772",
-          "publicPath": "/luci-sdk-docs/assets/js/runtime~main.9faf98e3.js"
+          "file": "assets/js/runtime~main.1869e6c3.js",
+          "hash": "2553c6852a3f9234",
+          "publicPath": "/luci-sdk-docs/assets/js/runtime~main.1869e6c3.js"
         }
       ]
     },
@@ -889,9 +898,9 @@
     "4978": {
       "js": [
         {
-          "file": "assets/js/3d489de7.f17b584e.js",
-          "hash": "46c0e61260d185ee",
-          "publicPath": "/luci-sdk-docs/assets/js/3d489de7.f17b584e.js"
+          "file": "assets/js/3d489de7.9bbad2ac.js",
+          "hash": "4b46c89d0bf3c7b6",
+          "publicPath": "/luci-sdk-docs/assets/js/3d489de7.9bbad2ac.js"
         }
       ]
     },
@@ -919,15 +928,6 @@
           "file": "assets/js/1359fe43.bbdf18bb.js",
           "hash": "c08d529001d063c5",
           "publicPath": "/luci-sdk-docs/assets/js/1359fe43.bbdf18bb.js"
-        }
-      ]
-    },
-    "5048": {
-      "js": [
-        {
-          "file": "assets/js/f37e74d0.7a9b87ae.js",
-          "hash": "3b8f6ddcb405c764",
-          "publicPath": "/luci-sdk-docs/assets/js/f37e74d0.7a9b87ae.js"
         }
       ]
     },
@@ -1312,9 +1312,9 @@
     "9160": {
       "js": [
         {
-          "file": "assets/js/911ac044.29e2c54c.js",
-          "hash": "19e6b57b993340e5",
-          "publicPath": "/luci-sdk-docs/assets/js/911ac044.29e2c54c.js"
+          "file": "assets/js/911ac044.b1553df5.js",
+          "hash": "f79be9ba5c901c66",
+          "publicPath": "/luci-sdk-docs/assets/js/911ac044.b1553df5.js"
         }
       ]
     },

@@ -14,7 +14,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci-third-party",
-    "permalink": "/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/placeholder"
+    "permalink": "/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/third_party_package"
   },
   "next": {
     "title": "Encoders",
