@@ -56,11 +56,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ROS2 SDK/How-To/Installation/install-protobuf",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-protobuf",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
               "path": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
               "sidebar": "tutorialSidebar"

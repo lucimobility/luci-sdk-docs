@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Install Protobuf",
-    "permalink": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-protobuf"
+    "title": "Install ROS2",
+    "permalink": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/ros-install"
   },
   "next": {
     "title": "Install LUCI ROS2 SDK",

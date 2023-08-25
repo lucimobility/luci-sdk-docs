@@ -56,15 +56,9 @@
                   },
                   {
                     "type": "link",
-                    "label": "Install ROS2 Galactic",
+                    "label": "Install ROS2",
                     "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/ros-install",
                     "docId": "ROS2 SDK/How-To/Installation/ros-install"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Install Protobuf",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-protobuf",
-                    "docId": "ROS2 SDK/How-To/Installation/install-protobuf"
                   },
                   {
                     "type": "link",
@@ -244,7 +238,7 @@
     "intro": {
       "id": "intro",
       "title": "SDK Documentation",
-      "description": "The tools in this SDK make the LUCI platform, sensor information and a control interfaces, available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you will need a LUCI enabled chair updated to LuciCore Sandbox Edition, Version 1.6.2 or greater. If you are interested in gaining access to the Sandbox, contact info@luci.com.",
+      "description": "The tools in this SDK make the LUCI platform, sensor information and a control interfaces, available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you will need a LUCI enabled chair updated to LuciCore Sandbox Edition, Version 2.0.1 or greater. If you are interested in gaining access to the Sandbox, contact info@luci.com.",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/How-To/Examples/examples": {
@@ -283,12 +277,6 @@
       "description": "LUCI uses gRPC, developed by Google, for its wireless messaging system. This system uses protobuf as well. These are very version sensitive so it is important to use the exact versions that are listed below.",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/How-To/Installation/install-protobuf": {
-      "id": "ROS2 SDK/How-To/Installation/install-protobuf",
-      "title": "Install Protobuf",
-      "description": "LUCI uses gRPC, developed by Google, for its wireless messaging system. This system uses protobuf as well. These are very version sensitive so it is important to use the exact versions that are listed below.",
-      "sidebar": "tutorialSidebar"
-    },
     "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install": {
       "id": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
       "title": "Install LUCI ROS2 SDK",
@@ -297,8 +285,8 @@
     },
     "ROS2 SDK/How-To/Installation/ros-install": {
       "id": "ROS2 SDK/How-To/Installation/ros-install",
-      "title": "Install ROS2 Galactic",
-      "description": "Instructions from the official ROS maintainers can be found here https://docs.ros.org/en/galactic/Installation/Ubuntu-Install-Debians.html but the steps we assume you run will be listed below",
+      "title": "Install ROS2",
+      "description": "Instructions from the official ROS maintainers can be found here https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html but the steps we assume you run will be listed below",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/Packages/Basic Teleop/teleop": {

@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/luci-sdk-docs/next',
-    component: ComponentCreator('/luci-sdk-docs/next', 'a51'),
+    component: ComponentCreator('/luci-sdk-docs/next', 'bca'),
     routes: [
       {
         path: '/luci-sdk-docs/next/',
@@ -62,12 +62,6 @@ export default [
       {
         path: '/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-grpc',
         component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-grpc', 'd9b'),
-        exact: true,
-        sidebar: "tutorialSidebar"
-      },
-      {
-        path: '/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-protobuf',
-        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-protobuf', 'b7e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
