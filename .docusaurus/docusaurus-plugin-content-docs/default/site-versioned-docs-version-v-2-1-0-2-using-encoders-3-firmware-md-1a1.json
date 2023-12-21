@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Using Encoders/firmware",
+  "id": "version-v2.1.0/Using Encoders/firmware",
+  "title": "Firmware",
+  "description": "GitHub repo",
+  "source": "@site/versioned_docs/version-v2.1.0/2_Using Encoders/3_firmware.md",
+  "sourceDirName": "2_Using Encoders",
+  "slug": "/Using Encoders/firmware",
+  "permalink": "/luci-sdk-docs/Using Encoders/firmware",
+  "draft": false,
+  "tags": [],
+  "version": "v2.1.0",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Shield",
+    "permalink": "/luci-sdk-docs/Using Encoders/shield"
+  },
+  "next": {
+    "title": "How to Contribute",
+    "permalink": "/luci-sdk-docs/CONTRIBUTING"
+  }
+}

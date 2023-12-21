@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Using Encoders/encoders",
+  "id": "version-v2.1.0/Using Encoders/encoders",
+  "title": "Encoders",
+  "description": "Design files and documentation for power wheelchair encoders compatible with the LUCI sensor system.",
+  "source": "@site/versioned_docs/version-v2.1.0/2_Using Encoders/1_encoders.md",
+  "sourceDirName": "2_Using Encoders",
+  "slug": "/Using Encoders/encoders",
+  "permalink": "/luci-sdk-docs/Using Encoders/encoders",
+  "draft": false,
+  "tags": [],
+  "version": "v2.1.0",
+  "sidebarPosition": 1,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_transforms",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package"
+  },
+  "next": {
+    "title": "Shield",
+    "permalink": "/luci-sdk-docs/Using Encoders/shield"
+  }
+}

@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v2.0.0/1_ROS2 SDK/3_Packages/Transforms/luci_transforms_package.md",
   "sourceDirName": "1_ROS2 SDK/3_Packages/Transforms",
   "slug": "/ROS2 SDK/Packages/Transforms/luci_transforms_package",
-  "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package",
+  "permalink": "/luci-sdk-docs/v2.0.0/ROS2 SDK/Packages/Transforms/luci_transforms_package",
   "draft": false,
   "tags": [],
   "version": "v2.0.0",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci-third-party",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Third Party/third_party_package"
+    "permalink": "/luci-sdk-docs/v2.0.0/ROS2 SDK/Packages/Third Party/third_party_package"
   },
   "next": {
     "title": "Encoders",
-    "permalink": "/luci-sdk-docs/Using Encoders/encoders"
+    "permalink": "/luci-sdk-docs/v2.0.0/Using Encoders/encoders"
   }
 }
