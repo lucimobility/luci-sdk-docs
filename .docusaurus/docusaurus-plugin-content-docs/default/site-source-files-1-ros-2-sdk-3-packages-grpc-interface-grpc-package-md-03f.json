@@ -2,7 +2,7 @@
   "unversionedId": "ROS2 SDK/Packages/GRPC Interface/grpc_package",
   "id": "ROS2 SDK/Packages/GRPC Interface/grpc_package",
   "title": "luci_grpc_interface",
-  "description": "summary:",
+  "description": "Summary:",
   "source": "@site/source_files/1_ROS2 SDK/3_Packages/GRPC Interface/grpc_package.md",
   "sourceDirName": "1_ROS2 SDK/3_Packages/GRPC Interface",
   "slug": "/ROS2 SDK/Packages/GRPC Interface/grpc_package",

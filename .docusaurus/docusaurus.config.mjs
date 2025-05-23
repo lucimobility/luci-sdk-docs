@@ -55,7 +55,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2024 LUCI, LLC.",
+      "copyright": "Copyright © 2025 LUCI, LLC.",
       "links": []
     },
     "prism": {
