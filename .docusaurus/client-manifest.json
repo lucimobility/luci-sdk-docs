@@ -746,9 +746,9 @@
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.07a19c92.js",
-          "hash": "1634f60f8f8bd6b1",
-          "publicPath": "/luci-sdk-docs/assets/js/runtime~main.07a19c92.js"
+          "file": "assets/js/runtime~main.c335cb09.js",
+          "hash": "a7395dc073257c4d",
+          "publicPath": "/luci-sdk-docs/assets/js/runtime~main.c335cb09.js"
         }
       ]
     },
@@ -1606,9 +1606,9 @@
     "7736": {
       "js": [
         {
-          "file": "assets/js/c34209e6.d5fa4a3a.js",
-          "hash": "8d9dbfd14c727dda",
-          "publicPath": "/luci-sdk-docs/assets/js/c34209e6.d5fa4a3a.js"
+          "file": "assets/js/c34209e6.3aab6487.js",
+          "hash": "d3729549501768e2",
+          "publicPath": "/luci-sdk-docs/assets/js/c34209e6.3aab6487.js"
         }
       ]
     },
