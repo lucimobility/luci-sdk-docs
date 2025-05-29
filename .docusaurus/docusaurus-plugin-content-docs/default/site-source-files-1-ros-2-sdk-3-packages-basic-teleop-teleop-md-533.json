@@ -2,7 +2,7 @@
   "unversionedId": "ROS2 SDK/Packages/Basic Teleop/teleop",
   "id": "ROS2 SDK/Packages/Basic Teleop/teleop",
   "title": "luci_basic_teleop",
-  "description": "The lucibasicteleop package runs a node that publishes messages that can be used to drive LUCI using the arrow keys on your keyboard. ctrl+c or q to terminate. Compatible with Linux.",
+  "description": "The lucibasicteleop package is an example node that publishes messages that",
   "source": "@site/source_files/1_ROS2 SDK/3_Packages/Basic Teleop/teleop.md",
   "sourceDirName": "1_ROS2 SDK/3_Packages/Basic Teleop",
   "slug": "/ROS2 SDK/Packages/Basic Teleop/teleop",
