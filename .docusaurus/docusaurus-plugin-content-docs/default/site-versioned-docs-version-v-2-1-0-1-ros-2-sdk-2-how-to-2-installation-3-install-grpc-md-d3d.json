@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v2.1.0/1_ROS2 SDK/2_How-To/2_Installation/3_install-grpc.md",
   "sourceDirName": "1_ROS2 SDK/2_How-To/2_Installation",
   "slug": "/ROS2 SDK/How-To/Installation/install-grpc",
-  "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc",
+  "permalink": "/luci-sdk-docs/v2.1.0/ROS2 SDK/How-To/Installation/install-grpc",
   "draft": false,
   "tags": [],
   "version": "v2.1.0",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Install ROS2",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install"
+    "permalink": "/luci-sdk-docs/v2.1.0/ROS2 SDK/How-To/Installation/ros-install"
   },
   "next": {
     "title": "Install LUCI ROS2 SDK",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install"
+    "permalink": "/luci-sdk-docs/v2.1.0/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install"
   }
 }

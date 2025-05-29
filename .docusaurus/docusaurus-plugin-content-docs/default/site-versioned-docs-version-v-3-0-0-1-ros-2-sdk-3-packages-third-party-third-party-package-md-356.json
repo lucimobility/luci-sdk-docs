@@ -1,0 +1,23 @@
+{
+  "unversionedId": "ROS2 SDK/Packages/Third Party/third_party_package",
+  "id": "version-v3.0.0/ROS2 SDK/Packages/Third Party/third_party_package",
+  "title": "luci-third-party",
+  "description": "Wheelchair launch file",
+  "source": "@site/versioned_docs/version-v3.0.0/1_ROS2 SDK/3_Packages/Third Party/third_party_package.md",
+  "sourceDirName": "1_ROS2 SDK/3_Packages/Third Party",
+  "slug": "/ROS2 SDK/Packages/Third Party/third_party_package",
+  "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Third Party/third_party_package",
+  "draft": false,
+  "tags": [],
+  "version": "v3.0.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "luci_messages",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Messages/msgs_package"
+  },
+  "next": {
+    "title": "luci_transforms",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package"
+  }
+}

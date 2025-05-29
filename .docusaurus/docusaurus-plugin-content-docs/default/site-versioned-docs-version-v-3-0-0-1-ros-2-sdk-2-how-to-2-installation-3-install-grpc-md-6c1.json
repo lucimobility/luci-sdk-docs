@@ -1,0 +1,24 @@
+{
+  "unversionedId": "ROS2 SDK/How-To/Installation/install-grpc",
+  "id": "version-v3.0.0/ROS2 SDK/How-To/Installation/install-grpc",
+  "title": "Install gRPC",
+  "description": "LUCI uses gRPC, developed by Google, for its wireless messaging system. This system uses protobuf as well. These are very version sensitive so it is important to use the exact versions that are listed below.",
+  "source": "@site/versioned_docs/version-v3.0.0/1_ROS2 SDK/2_How-To/2_Installation/3_install-grpc.md",
+  "sourceDirName": "1_ROS2 SDK/2_How-To/2_Installation",
+  "slug": "/ROS2 SDK/How-To/Installation/install-grpc",
+  "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc",
+  "draft": false,
+  "tags": [],
+  "version": "v3.0.0",
+  "sidebarPosition": 3,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install ROS2",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install"
+  },
+  "next": {
+    "title": "Install LUCI ROS2 SDK",
+    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install"
+  }
+}

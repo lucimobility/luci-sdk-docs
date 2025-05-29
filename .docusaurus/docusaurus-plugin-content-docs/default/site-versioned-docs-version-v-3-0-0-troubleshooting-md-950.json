@@ -1,0 +1,19 @@
+{
+  "unversionedId": "troubleshooting",
+  "id": "version-v3.0.0/troubleshooting",
+  "title": "Troubleshooting",
+  "description": "If during the gRPC install you are getting protobuf errors but protoc --version is giving the correct output try restarting your computer and reinstalling grpc",
+  "source": "@site/versioned_docs/version-v3.0.0/troubleshooting.md",
+  "sourceDirName": ".",
+  "slug": "/troubleshooting",
+  "permalink": "/luci-sdk-docs/troubleshooting",
+  "draft": false,
+  "tags": [],
+  "version": "v3.0.0",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "LUCI Code of Conduct",
+    "permalink": "/luci-sdk-docs/code-of-conduct"
+  }
+}

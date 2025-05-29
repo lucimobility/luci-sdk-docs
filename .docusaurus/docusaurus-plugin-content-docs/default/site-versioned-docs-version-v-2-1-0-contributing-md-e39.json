@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v2.1.0/CONTRIBUTING.md",
   "sourceDirName": ".",
   "slug": "/CONTRIBUTING",
-  "permalink": "/luci-sdk-docs/CONTRIBUTING",
+  "permalink": "/luci-sdk-docs/v2.1.0/CONTRIBUTING",
   "draft": false,
   "tags": [],
   "version": "v2.1.0",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Firmware",
-    "permalink": "/luci-sdk-docs/Using Encoders/firmware"
+    "permalink": "/luci-sdk-docs/v2.1.0/Using Encoders/firmware"
   },
   "next": {
     "title": "LUCI Code of Conduct",
-    "permalink": "/luci-sdk-docs/code-of-conduct"
+    "permalink": "/luci-sdk-docs/v2.1.0/code-of-conduct"
   }
 }

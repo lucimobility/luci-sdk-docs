@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v2.1.0/2_Using Encoders/1_encoders.md",
   "sourceDirName": "2_Using Encoders",
   "slug": "/Using Encoders/encoders",
-  "permalink": "/luci-sdk-docs/Using Encoders/encoders",
+  "permalink": "/luci-sdk-docs/v2.1.0/Using Encoders/encoders",
   "draft": false,
   "tags": [],
   "version": "v2.1.0",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "luci_transforms",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package"
+    "permalink": "/luci-sdk-docs/v2.1.0/ROS2 SDK/Packages/Transforms/luci_transforms_package"
   },
   "next": {
     "title": "Shield",
-    "permalink": "/luci-sdk-docs/Using Encoders/shield"
+    "permalink": "/luci-sdk-docs/v2.1.0/Using Encoders/shield"
   }
 }
