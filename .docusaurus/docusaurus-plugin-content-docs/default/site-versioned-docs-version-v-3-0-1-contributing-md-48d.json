@@ -1,0 +1,23 @@
+{
+  "unversionedId": "CONTRIBUTING",
+  "id": "version-v3.0.1/CONTRIBUTING",
+  "title": "How to Contribute",
+  "description": "This project welcomes third-party code via pull requests.",
+  "source": "@site/versioned_docs/version-v3.0.1/CONTRIBUTING.md",
+  "sourceDirName": ".",
+  "slug": "/CONTRIBUTING",
+  "permalink": "/luci-sdk-docs/CONTRIBUTING",
+  "draft": false,
+  "tags": [],
+  "version": "v3.0.1",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Firmware",
+    "permalink": "/luci-sdk-docs/Using Encoders/firmware"
+  },
+  "next": {
+    "title": "LUCI Code of Conduct",
+    "permalink": "/luci-sdk-docs/code-of-conduct"
+  }
+}

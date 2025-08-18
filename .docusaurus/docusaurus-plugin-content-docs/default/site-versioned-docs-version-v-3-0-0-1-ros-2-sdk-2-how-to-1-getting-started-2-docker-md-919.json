@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.0/1_ROS2 SDK/2_How-To/1_Getting-Started/2_docker.md",
   "sourceDirName": "1_ROS2 SDK/2_How-To/1_Getting-Started",
   "slug": "/ROS2 SDK/How-To/Getting-Started/docker",
-  "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/docker",
+  "permalink": "/luci-sdk-docs/v3.0.0/ROS2 SDK/How-To/Getting-Started/docker",
   "draft": false,
   "tags": [],
   "version": "v3.0.0",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/"
+    "permalink": "/luci-sdk-docs/v3.0.0/ROS2 SDK/How-To/Getting-Started/"
   },
   "next": {
     "title": "Installing Basic System Dependencies",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/dependencies"
+    "permalink": "/luci-sdk-docs/v3.0.0/ROS2 SDK/How-To/Installation/dependencies"
   }
 }

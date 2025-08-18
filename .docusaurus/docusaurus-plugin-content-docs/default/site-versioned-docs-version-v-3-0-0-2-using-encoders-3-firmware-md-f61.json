@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.0/2_Using Encoders/3_firmware.md",
   "sourceDirName": "2_Using Encoders",
   "slug": "/Using Encoders/firmware",
-  "permalink": "/luci-sdk-docs/Using Encoders/firmware",
+  "permalink": "/luci-sdk-docs/v3.0.0/Using Encoders/firmware",
   "draft": false,
   "tags": [],
   "version": "v3.0.0",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Shield",
-    "permalink": "/luci-sdk-docs/Using Encoders/shield"
+    "permalink": "/luci-sdk-docs/v3.0.0/Using Encoders/shield"
   },
   "next": {
     "title": "How to Contribute",
-    "permalink": "/luci-sdk-docs/CONTRIBUTING"
+    "permalink": "/luci-sdk-docs/v3.0.0/CONTRIBUTING"
   }
 }
