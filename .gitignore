@@ -45,3 +45,5 @@ Thumbs.db
 # Misc
 .pids
 *.pid
+.ssh/
+.ssh/*
