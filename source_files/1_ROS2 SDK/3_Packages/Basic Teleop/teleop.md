@@ -54,7 +54,7 @@ For example:
 
 or
 
-`ros2 service call /luci/remove_auto_remote_input std_srvs/srv/Empty` to disbale remote control
+`ros2 service call /luci/remove_auto_remote_input std_srvs/srv/Empty` to disable remote control
 
 ### LuciJoystick Message Types ###
 The LuciJoystick message contains the following data:
@@ -65,7 +65,7 @@ The LuciJoystick message contains the following data:
 | `int32 joystick_zone`| [0 - 8] |
 | `int32 input_source` | [0 - 4] |
 
-The integers for JoystickZone and InoutSource corespond with the following enums:
+The integers for JoystickZone and InoutSource correspond with the following enums:
 enum JoystickZone {
      Front = 0;
      FrontLeft = 1;

@@ -17,7 +17,7 @@
     "permalink": "/luci-sdk-docs/next/ROS2 SDK/Packages/Third Party/third_party_package"
   },
   "next": {
-    "title": "Encoders",
-    "permalink": "/luci-sdk-docs/next/Using Encoders/encoders"
+    "title": "Troubleshooting",
+    "permalink": "/luci-sdk-docs/next/troubleshooting"
   }
 }

@@ -11,7 +11,7 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "SDK Documentation",
+        "label": "Introduction",
         "href": "/luci-sdk-docs/next/",
         "docId": "intro"
       },
@@ -29,48 +29,29 @@
             "items": [
               {
                 "type": "category",
-                "label": "Getting Started",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "docker",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Getting-Started/docker",
-                    "docId": "ROS2 SDK/How-To/Getting-Started/docker"
-                  }
-                ],
-                "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Getting-Started/"
-              },
-              {
-                "type": "category",
                 "label": "Installation",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "link",
-                    "label": "Installing Basic System Dependencies",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/dependencies",
-                    "docId": "ROS2 SDK/How-To/Installation/dependencies"
+                    "label": "Quick Start",
+                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Quick-Start/",
+                    "docId": "ROS2 SDK/How-To/Installation/Quick-Start/quick-start"
                   },
                   {
-                    "type": "link",
-                    "label": "Install ROS2",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/ros-install",
-                    "docId": "ROS2 SDK/How-To/Installation/ros-install"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Install gRPC",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/install-grpc",
-                    "docId": "ROS2 SDK/How-To/Installation/install-grpc"
-                  },
-                  {
-                    "type": "link",
-                    "label": "Install LUCI ROS2 SDK",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
-                    "docId": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install"
+                    "type": "category",
+                    "label": "Manual Installation",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "link",
+                        "label": "Manual Installation",
+                        "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Manual Installation/manual_installation",
+                        "docId": "ROS2 SDK/How-To/Installation/Manual Installation/manual_installation"
+                      }
+                    ]
                   }
                 ]
               },
@@ -82,13 +63,13 @@
                 "items": [
                   {
                     "type": "link",
-                    "label": "SDK Examples",
+                    "label": "Usage Examples",
                     "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/examples",
                     "docId": "ROS2 SDK/How-To/Examples/examples"
                   },
                   {
                     "type": "link",
-                    "label": "SLAM (Simultaneous Localization and Mapping)",
+                    "label": "SLAM Notes",
                     "href": "/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/slam",
                     "docId": "ROS2 SDK/How-To/Examples/slam"
                   }
@@ -177,116 +158,66 @@
         ]
       },
       {
-        "type": "category",
-        "label": "Using Encoders",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Encoders",
-            "href": "/luci-sdk-docs/next/Using Encoders/encoders",
-            "docId": "Using Encoders/encoders"
-          },
-          {
-            "type": "link",
-            "label": "Shield",
-            "href": "/luci-sdk-docs/next/Using Encoders/shield",
-            "docId": "Using Encoders/shield"
-          },
-          {
-            "type": "link",
-            "label": "Firmware",
-            "href": "/luci-sdk-docs/next/Using Encoders/firmware",
-            "docId": "Using Encoders/firmware"
-          }
-        ]
-      },
-      {
-        "type": "link",
-        "label": "How to Contribute",
-        "href": "/luci-sdk-docs/next/CONTRIBUTING",
-        "docId": "CONTRIBUTING"
-      },
-      {
-        "type": "link",
-        "label": "LUCI Code of Conduct",
-        "href": "/luci-sdk-docs/next/code-of-conduct",
-        "docId": "code-of-conduct"
-      },
-      {
         "type": "link",
         "label": "Troubleshooting",
         "href": "/luci-sdk-docs/next/troubleshooting",
         "docId": "troubleshooting"
+      },
+      {
+        "type": "link",
+        "label": "How to Contribute",
+        "href": "/luci-sdk-docs/next/contributing",
+        "docId": "contributing"
+      },
+      {
+        "type": "link",
+        "label": "Code of Conduct",
+        "href": "/luci-sdk-docs/next/code-of-conduct",
+        "docId": "code-of-conduct"
       }
     ]
   },
   "docs": {
     "code-of-conduct": {
       "id": "code-of-conduct",
-      "title": "LUCI Code of Conduct",
+      "title": "Code of Conduct",
       "description": "Our Pledge",
       "sidebar": "tutorialSidebar"
     },
-    "CONTRIBUTING": {
-      "id": "CONTRIBUTING",
+    "contributing": {
+      "id": "contributing",
       "title": "How to Contribute",
       "description": "This project welcomes third-party code via pull requests.",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
       "id": "intro",
-      "title": "SDK Documentation",
-      "description": "The tools in this SDK make the LUCI platform, sensor information and a control interfaces, available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you will need a LUCI enabled chair updated to LuciCore Sandbox Edition, Version 3.0.4 or greater. If you are interested in gaining access to the Sandbox, contact info@luci.com.",
+      "title": "Introduction",
+      "description": "The tools in this SDK make LUCI sensor information and control interfaces available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you need a LUCI Dev Kit (a LUCI enabled wheelchair) updated to LuciCore Sandbox Edition, Version 3.0.5 or greater. If you are interested in becoming a Sandbox Partner, contact info@luci.com.",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/How-To/Examples/examples": {
       "id": "ROS2 SDK/How-To/Examples/examples",
-      "title": "SDK Examples",
-      "description": "Docker Example",
+      "title": "Usage Examples",
+      "description": "Note: If you are using Docker to run the SDK, make sure to connect a new terminal to your container each time the instructions below tell you to \"open a new terminal\"",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/How-To/Examples/slam": {
       "id": "ROS2 SDK/How-To/Examples/slam",
-      "title": "SLAM (Simultaneous Localization and Mapping)",
-      "description": "SLAM is a very useful application for autonomous or semi-autonomous robot navigation.",
+      "title": "SLAM Notes",
+      "description": "LUCI as a sensor platform allows for a jump start on applying a SLAM methodology to power wheelchairs.",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/How-To/Getting-Started/docker": {
-      "id": "ROS2 SDK/How-To/Getting-Started/docker",
-      "title": "docker",
+    "ROS2 SDK/How-To/Installation/Manual Installation/manual_installation": {
+      "id": "ROS2 SDK/How-To/Installation/Manual Installation/manual_installation",
+      "title": "Manual Installation",
+      "description": "Note: These are instruction for installing ROS2, luci_ros2_sdk, and other system dependencies onto a native Linux system. If you installed everything using the Quick Start and Docker instructions above here, then you do not need to do any part of the installation below.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ROS2 SDK/How-To/Installation/Quick-Start/quick-start": {
+      "id": "ROS2 SDK/How-To/Installation/Quick-Start/quick-start",
+      "title": "Quick Start",
       "description": "Docker",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/How-To/Getting-Started/getting-started": {
-      "id": "ROS2 SDK/How-To/Getting-Started/getting-started",
-      "title": "Getting Started",
-      "description": "Docker",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/How-To/Installation/dependencies": {
-      "id": "ROS2 SDK/How-To/Installation/dependencies",
-      "title": "Installing Basic System Dependencies",
-      "description": "Manual dependencies:",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/How-To/Installation/install-grpc": {
-      "id": "ROS2 SDK/How-To/Installation/install-grpc",
-      "title": "Install gRPC",
-      "description": "LUCI uses gRPC, developed by Google, for its wireless messaging system. This system uses protobuf as well. These are very version sensitive so it is important to use the exact versions that are listed below.",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install": {
-      "id": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
-      "title": "Install LUCI ROS2 SDK",
-      "description": "The ROS2 SDK provided by LUCI is broken up into a collection of examples and individual ROS2 packages. We chose to split the packages into individually installable .deb binaries. This choice was made to ensure that the SDK could be as modular as possible.",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/How-To/Installation/ros-install": {
-      "id": "ROS2 SDK/How-To/Installation/ros-install",
-      "title": "Install ROS2",
-      "description": "Instructions from the official ROS maintainers can be found here https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html but the steps we assume you run will be listed below",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/Packages/Basic Teleop/teleop": {
@@ -323,24 +254,6 @@
       "id": "troubleshooting",
       "title": "Troubleshooting",
       "description": "If during the gRPC install you are getting protobuf errors but protoc --version is giving the correct output try restarting your computer and reinstalling grpc",
-      "sidebar": "tutorialSidebar"
-    },
-    "Using Encoders/encoders": {
-      "id": "Using Encoders/encoders",
-      "title": "Encoders",
-      "description": "Design files and documentation for power wheelchair encoders compatible with the LUCI sensor system.",
-      "sidebar": "tutorialSidebar"
-    },
-    "Using Encoders/firmware": {
-      "id": "Using Encoders/firmware",
-      "title": "Firmware",
-      "description": "GitHub repo",
-      "sidebar": "tutorialSidebar"
-    },
-    "Using Encoders/shield": {
-      "id": "Using Encoders/shield",
-      "title": "Shield",
-      "description": "Shield",
       "sidebar": "tutorialSidebar"
     }
   }

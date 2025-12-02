@@ -4,15 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "LUCI SDK",
-  "tagline": "LUCI SDK Documentation",
+  "title": "LUCI ROS2 SDK",
+  "tagline": "LUCI ROS2 SDK Documentation",
   "url": "https://lucimobility.github.io",
   "baseUrl": "/luci-sdk-docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "throw",
   "favicon": "img/sandbox-logo.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -38,7 +36,7 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "SDK Documentation",
+      "title": "ROS2 SDK Documentation",
       "logo": {
         "alt": "Sandbox logo",
         "src": "img/sandbox-logo.png"
@@ -55,7 +53,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 LUCI, LLC.",
+      "copyright": "Copyright © 2025 LUCI Mobility, Inc.",
       "links": []
     },
     "prism": {

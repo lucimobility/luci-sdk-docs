@@ -1,8 +1,8 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "SDK Documentation",
-  "description": "The tools in this SDK make the LUCI platform, sensor information and a control interfaces, available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you will need a LUCI enabled chair updated to LuciCore Sandbox Edition, Version 3.0.4 or greater. If you are interested in gaining access to the Sandbox, contact info@luci.com.",
+  "title": "Introduction",
+  "description": "The tools in this SDK make LUCI sensor information and control interfaces available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you need a LUCI Dev Kit (a LUCI enabled wheelchair) updated to LuciCore Sandbox Edition, Version 3.0.5 or greater. If you are interested in becoming a Sandbox Partner, contact info@luci.com.",
   "source": "@site/source_files/1_Landing.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -13,12 +13,12 @@
   "sidebarPosition": 1,
   "frontMatter": {
     "id": "intro",
-    "title": "SDK Documentation",
+    "title": "Introduction",
     "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Getting Started",
-    "permalink": "/luci-sdk-docs/next/ROS2 SDK/How-To/Getting-Started/"
+    "title": "Quick Start",
+    "permalink": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Quick-Start/"
   }
 }
