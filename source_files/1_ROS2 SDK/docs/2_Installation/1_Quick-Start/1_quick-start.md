@@ -31,18 +31,10 @@ If you don't have docker, you can install it by following instructions here: [In
 
 We recommend that you start up the container with the following flags and configuration in order to use it with our examples.
 
-**Note: Before running the command below replace \<container-name> with any name of your choice**
+**Note: Before running the command below replace `<container-name>` with any name of your choice**
 
-```bash
-sudo docker run -d -it \
-    --name <container-name> \
-    -e DISPLAY=$DISPLAY \
-    -e XAUTHORITY=/root/.Xauthority \
-    -v /tmp/.X11-unix:/tmp/.X11-unix \
-    -v $XAUTHORITY:/root/.Xauthority \
-    -p 8765:8765 \
-    luci.jfrog.io/ros2-sdk-docker-local/luci-ros2-sdk:latest
-```
+`sudo docker run -d -it --name <container-name> -e DISPLAY=$DISPLAY -e XAUTHORITY=/root/.Xauthority -v /tmp/.X11-unix:/tmp/.X11-unix -v $XAUTHORITY:/root/.Xauthority -p 8765:8765 luci.jfrog.io/ros2-sdk-docker-local/luci-ros2-sdk:latest`
+
 The container will now be running in the background and will not shut down unless explicitly told to shut down.
 
 ## Part 2: Starting and stopping.
@@ -72,44 +64,45 @@ and then:
 
 `ros2 topic list`
 
-You should see a list of topics similar to this print out: 
-```bash
-/events/read_split
-/events/write_split
-/luci/camera_points
-/luci/encoders
-/luci/imu
-/luci/joystick_position
-/luci/joystick_scaling
-/luci/odom
-/luci/radar_points
-/luci/scaling
-/luci/ultrasonic_points
-/parameter_events
-/rosout
-/tf
-```
+You should see a list of topics similar to this: 
+
+    /events/read_split
+
+    /events/write_split
+
+    /luci/camera_points
+
+    /luci/encoders
+
+    /luci/imu
+
+    /luci/joystick_position
+
+    /luci/joystick_scaling
+
+    /luci/odom
+
+    /luci/radar_points
+
+    /luci/scaling
+
+    /luci/ultrasonic_points
+
+    /parameter_events
+
+    /rosout
+
+    /tf
+
 If you see this, then you should be up and running and can move on to trying some of our examples.
-
-
 
 ## Tips and tricks
 - Creating aliases for the commands above and then adding them to your .bashrc file is super helpful way to avoid retyping all these long docker commands. The following is an example of alias definitions that you could put in your .bashrc file (on the host machine).
-```bash
-alias runsdk="docker start <container-name>"
-alias stopsdk="docker stop <container-name>"
-alias connectsdk="docker exec -it <container-name> bash"
-```
+
+`alias runsdk="docker start <container-name>`
+`alias stopsdk="docker stop <container-name>`
+`alias connectsdk="docker exec -it <container-name>`
+
 - As mentioned above, shuting down a container will erase any changes made on the image. If you have files that you don't want to be discarded when the container is shut down, you can create a "storage folder" on your host machine, and point this folder to the docker container when you create it. The following command shows how you would point a folder at `/home/projects/luci` on the host machine to a folder called `ws` in the docker container.
 
-```bash
-sudo docker run -d -it \
-    --name <container-name> \
-    -v /home/projects/luci:/root/ws \
-    -e DISPLAY=$DISPLAY \
-    -e XAUTHORITY=/root/.Xauthority \
-    -v /tmp/.X11-unix:/tmp/.X11-unix \
-    -v $XAUTHORITY:/root/.Xauthority \
-    -p 8765:8765 \
-    luci.jfrog.io/ros2-sdk-docker-local/luci-ros2-sdk:latest
-```
+`sudo docker run -d -it --name <container-name> -v /home/projects/luci:/root/ws -e DISPLAY=$DISPLAY -e XAUTHORITY=/root/.Xauthority -v /tmp/.X11-unix:/tmp/.X11-unix -v $XAUTHORITY:/root/.Xauthority -p 8765:8765 luci.jfrog.io/ros2-sdk-docker-local/luci-ros2-sdk:latest`
