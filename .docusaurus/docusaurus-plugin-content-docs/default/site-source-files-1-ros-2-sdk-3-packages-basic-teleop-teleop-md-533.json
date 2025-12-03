@@ -14,7 +14,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manual Installation",
-    "permalink": "/luci-sdk-docs/next/ROS2 SDK/Installation/Manual Installation/manual-installation"
+    "permalink": "/luci-sdk-docs/next/ROS2 SDK/Installation/manual-installation"
   },
   "next": {
     "title": "luci_grpc_interface",
