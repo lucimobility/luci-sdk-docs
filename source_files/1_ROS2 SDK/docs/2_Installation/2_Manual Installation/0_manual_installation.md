@@ -89,7 +89,22 @@ Add the bin path so it can be used at run time of the LUCI SDK packages
 
 ### Clone and Install:
 
-`git clone -b v1.56.2 https://github.com/grpc/grpc grpc && cd grpc && git submodule update --init && mkdir -p cmake/build && cd cmake/build && cmake -DgRPC_INSTALL=ON -DCMAKE_BUILD_TYPE=Release -DgRPC_BUILD_TESTS=OFF -DgRPC_PROTOBUF_PROVIDER=module -DCMAKE_INSTALL_PREFIX=$MY_INSTALL_DIR ../.. && make -j$(nproc) && make install && sudo apt-get install libprotobuf-dev`
+```
+git clone -b v1.56.2 https://github.com/grpc/grpc grpc \
+    && cd grpc \
+    && git submodule update --init \
+    && mkdir -p cmake/build \
+    && cd cmake/build \
+    && cmake -DgRPC_INSTALL=ON \
+    -DCMAKE_BUILD_TYPE=Release \
+    -DgRPC_BUILD_TESTS=OFF \
+    -DgRPC_PROTOBUF_PROVIDER=module \
+    -DCMAKE_INSTALL_PREFIX=$MY_INSTALL_DIR \
+    ../.. \
+    && make -j$(nproc) \
+    && make install \
+    && sudo apt-get install libprotobuf-dev
+```
 
 **For some systems the .local folder is not looked at for shared libraries by default. If you get a runtime error that says grpc_node cannot find libgrpc, then run the command below.**
 
@@ -136,17 +151,14 @@ If this is your first time using the LUCI ROS2 SDK repository you need to first 
 
 Once you have added the repo and gpg key for the LUCI ROS2 packages you can install all by running the command below. These will install the latest updated versions of the package. 
 
-`sudo apt update`
-
-`apt install ros-humble-luci-basic-teleop`
-
-`apt install ros-humble-luci-grpc-interface`
-
-`apt install ros-humble-luci-messages`
-
-`apt install ros-humble-luci-third-party`
-
-`apt install ros-humble-luci-transforms`
+```
+sudo apt update
+apt install ros-humble-luci-basic-teleop
+apt install ros-humble-luci-grpc-interface
+apt install ros-humble-luci-messages
+apt install ros-humble-luci-third-party
+apt install ros-humble-luci-transforms
+```
 
 After each install you should see it downloaded the version of the package that matches the version number listed in the versions.json file
 
@@ -154,33 +166,26 @@ To check the version of a given package run
 
 `apt show [package-name]`
 
-For example to check the basic-teleop package you would run
+For examble to check the basic-teleop package you would run
 
 `apt show ros-humble-luci-messages`
 
-and the output should be similar to this:
+and the output should be similar to this
 
-    Package: ros-humble-luci-messages
+```
+Package: ros-humble-luci-messages
+Version: 2.0.0-0jammy
+Priority: optional
+Section: misc
+Maintainer: shail <shail@luci.com>
+Installed-Size: 1185 kB
+Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-runtime, ros-humble-std-msgs
+Download-Size: 84.7 kB
+APT-Manual-Installed: yes
+APT-Sources: https://luci.jfrog.io/artifactory/ros2-sdk-packages jammy/private amd64 Packages
+Description: Custom Luci message types
 
-    Version: 2.0.0-0jammy
-
-    Priority: optional
-
-    Section: misc
-
-    Maintainer: shail <shail@luci.com>
-
-    Installed-Size: 1185 kB
-
-    Depends: libc6 (>= 2.4), libgcc-s1 (>= 3.3.1), libpython3.10 (>= 3.10.0), libstdc++6 (>= 5.2), ros-humble-fastcdr, ros-humble-rosidl-default-runtime, ros-humble-std-msgs
-
-    Download-Size: 84.7 kB
-
-    APT-Manual-Installed: yes
-
-    APT-Sources: https://luci.jfrog.io/artifactory/ros2-sdk-packages jammy/private amd64 Packages
-
-    Description: Custom Luci message types
+```
 
 ## Non Debian Install
 LUCI is proud to have the SDK packages open-source. If you want to make specific changes you can directly clone the repositories from github. Here are the steps:
