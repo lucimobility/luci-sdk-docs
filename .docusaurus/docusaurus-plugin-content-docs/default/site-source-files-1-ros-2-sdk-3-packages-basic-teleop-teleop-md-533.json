@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "SLAM Notes",
-    "permalink": "/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/slam"
+    "title": "Introduction",
+    "permalink": "/luci-sdk-docs/next/"
   },
   "next": {
     "title": "luci_grpc_interface",

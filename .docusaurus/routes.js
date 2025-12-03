@@ -9,11 +9,17 @@ export default [
   },
   {
     path: '/luci-sdk-docs/next',
-    component: ComponentCreator('/luci-sdk-docs/next', '23b'),
+    component: ComponentCreator('/luci-sdk-docs/next', '9f1'),
     routes: [
       {
         path: '/luci-sdk-docs/next/',
         component: ComponentCreator('/luci-sdk-docs/next/', 'fa8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/',
+        component: ComponentCreator('/luci-sdk-docs/next/', '31a'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -30,26 +36,44 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/examples',
-        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/examples', 'c26'),
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/code-of-conduct',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/code-of-conduct', '9a8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/slam',
-        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/How-To/Examples/slam', '0a5'),
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/contributing',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/contributing', '7be'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Manual Installation/manual_installation',
-        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Manual Installation/manual_installation', '7d0'),
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/Examples/examples',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/Examples/examples', '768'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Quick-Start/',
-        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Quick-Start/', '2ef'),
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/Examples/slam',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/Examples/slam', '9f7'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Manual Installation/manual_installation',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Manual Installation/manual_installation', '0d9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Quick-Start/',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Quick-Start/', '394'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/ROS2 SDK/docs/troubleshooting',
+        component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/docs/troubleshooting', 'c50'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

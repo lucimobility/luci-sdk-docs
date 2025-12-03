@@ -18,7 +18,7 @@
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Quick Start",
-    "permalink": "/luci-sdk-docs/next/ROS2 SDK/How-To/Installation/Quick-Start/"
+    "title": "luci_basic_teleop",
+    "permalink": "/luci-sdk-docs/next/ROS2 SDK/Packages/Basic Teleop/teleop"
   }
 }
