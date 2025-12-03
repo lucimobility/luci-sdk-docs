@@ -9,11 +9,29 @@ export default [
   },
   {
     path: '/luci-sdk-docs/next',
-    component: ComponentCreator('/luci-sdk-docs/next', '495'),
+    component: ComponentCreator('/luci-sdk-docs/next', 'e22'),
     routes: [
       {
         path: '/luci-sdk-docs/next/',
+        component: ComponentCreator('/luci-sdk-docs/next/', 'fa8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/',
         component: ComponentCreator('/luci-sdk-docs/next/', '31a'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/code-of-conduct',
+        component: ComponentCreator('/luci-sdk-docs/next/code-of-conduct', 'ba8'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/contributing',
+        component: ComponentCreator('/luci-sdk-docs/next/contributing', 'ba5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -86,6 +104,12 @@ export default [
       {
         path: '/luci-sdk-docs/next/ROS2 SDK/Packages/Transforms/luci_transforms_package',
         component: ComponentCreator('/luci-sdk-docs/next/ROS2 SDK/Packages/Transforms/luci_transforms_package', '02b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/next/troubleshooting',
+        component: ComponentCreator('/luci-sdk-docs/next/troubleshooting', '359'),
         exact: true,
         sidebar: "tutorialSidebar"
       }

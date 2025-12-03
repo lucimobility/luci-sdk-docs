@@ -12,6 +12,10 @@
   "version": "current",
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/luci-sdk-docs/next/"
+  },
   "next": {
     "title": "luci_grpc_interface",
     "permalink": "/luci-sdk-docs/next/ROS2 SDK/Packages/GRPC Interface/grpc_package"

@@ -8,8 +8,23 @@
           "label": "Next",
           "isLast": false,
           "path": "/luci-sdk-docs/next",
-          "mainDocId": "ROS2 SDK/docs/intro",
+          "mainDocId": "intro",
           "docs": [
+            {
+              "id": "code-of-conduct",
+              "path": "/luci-sdk-docs/next/code-of-conduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/luci-sdk-docs/next/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/luci-sdk-docs/next/",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "ROS2 SDK/docs/code-of-conduct",
               "path": "/luci-sdk-docs/next/ROS2 SDK/docs/code-of-conduct",
@@ -74,14 +89,19 @@
               "id": "ROS2 SDK/Packages/Transforms/luci_transforms_package",
               "path": "/luci-sdk-docs/next/ROS2 SDK/Packages/Transforms/luci_transforms_package",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/luci-sdk-docs/next/troubleshooting",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/luci-sdk-docs/next/ROS2 SDK/Packages/Basic Teleop/teleop",
-                "label": "ROS2 SDK/Packages/Basic Teleop/teleop"
+                "path": "/luci-sdk-docs/next/",
+                "label": "intro"
               }
             }
           }
