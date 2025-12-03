@@ -126,8 +126,8 @@
                       {
                         "type": "link",
                         "label": "Manual Installation",
-                        "href": "/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Manual Installation/manual_installation",
-                        "docId": "ROS2 SDK/docs/Installation/Manual Installation/manual_installation"
+                        "href": "/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
+                        "docId": "ROS2 SDK/docs/Installation/Manual Installation/manual-installation"
                       }
                     ]
                   }
@@ -202,8 +202,8 @@
       "description": "LUCI as a sensor platform allows for a jump start on applying a SLAM methodology to power wheelchairs.",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/docs/Installation/Manual Installation/manual_installation": {
-      "id": "ROS2 SDK/docs/Installation/Manual Installation/manual_installation",
+    "ROS2 SDK/docs/Installation/Manual Installation/manual-installation": {
+      "id": "ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
       "title": "Manual Installation",
       "description": "Note: These are instruction for installing ROS2, luci_ros2_sdk, and other system dependencies onto a native Linux system. If you installed everything using the Quick Start and Docker instructions above here, then you do not need to do any part of the installation below.",
       "sidebar": "tutorialSidebar"
