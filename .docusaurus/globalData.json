@@ -8,23 +8,8 @@
           "label": "Next",
           "isLast": false,
           "path": "/luci-sdk-docs/next",
-          "mainDocId": "intro",
+          "mainDocId": "ROS2 SDK/docs/intro",
           "docs": [
-            {
-              "id": "code-of-conduct",
-              "path": "/luci-sdk-docs/next/code-of-conduct",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "contributing",
-              "path": "/luci-sdk-docs/next/contributing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/luci-sdk-docs/next/",
-              "sidebar": "tutorialSidebar"
-            },
             {
               "id": "ROS2 SDK/docs/code-of-conduct",
               "path": "/luci-sdk-docs/next/ROS2 SDK/docs/code-of-conduct",
@@ -89,26 +74,21 @@
               "id": "ROS2 SDK/Packages/Transforms/luci_transforms_package",
               "path": "/luci-sdk-docs/next/ROS2 SDK/Packages/Transforms/luci_transforms_package",
               "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "troubleshooting",
-              "path": "/luci-sdk-docs/next/troubleshooting",
-              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/luci-sdk-docs/next/",
-                "label": "intro"
+                "path": "/luci-sdk-docs/next/ROS2 SDK/Packages/Basic Teleop/teleop",
+                "label": "ROS2 SDK/Packages/Basic Teleop/teleop"
               }
             }
           }
         },
         {
-          "name": "v3.0.2",
-          "label": "v3.0.2",
+          "name": "v3.0.1",
+          "label": "v3.0.1",
           "isLast": true,
           "path": "/luci-sdk-docs/",
           "mainDocId": "intro",
@@ -119,8 +99,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "contributing",
-              "path": "/luci-sdk-docs/contributing",
+              "id": "CONTRIBUTING",
+              "path": "/luci-sdk-docs/CONTRIBUTING",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -139,13 +119,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ROS2 SDK/How-To/Installation/Manual Installation/manual_installation",
-              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/Manual Installation/manual_installation",
+              "id": "ROS2 SDK/How-To/Getting-Started/docker",
+              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/docker",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ROS2 SDK/How-To/Installation/Quick-Start/quick-start",
-              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/Quick-Start/",
+              "id": "ROS2 SDK/How-To/Getting-Started/getting-started",
+              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/How-To/Installation/dependencies",
+              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/dependencies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/How-To/Installation/install-grpc",
+              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
+              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/How-To/Installation/ros-install",
+              "path": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -177,6 +177,21 @@
               "id": "troubleshooting",
               "path": "/luci-sdk-docs/troubleshooting",
               "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Encoders/encoders",
+              "path": "/luci-sdk-docs/Using Encoders/encoders",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Encoders/firmware",
+              "path": "/luci-sdk-docs/Using Encoders/firmware",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Using Encoders/shield",
+              "path": "/luci-sdk-docs/Using Encoders/shield",
+              "sidebar": "tutorialSidebar"
             }
           ],
           "draftIds": [],
@@ -184,124 +199,6 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/luci-sdk-docs/",
-                "label": "version-v3.0.2/intro"
-              }
-            }
-          }
-        },
-        {
-          "name": "v3.0.1",
-          "label": "v3.0.1",
-          "isLast": false,
-          "path": "/luci-sdk-docs/v3.0.1",
-          "mainDocId": "intro",
-          "docs": [
-            {
-              "id": "code-of-conduct",
-              "path": "/luci-sdk-docs/v3.0.1/code-of-conduct",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "CONTRIBUTING",
-              "path": "/luci-sdk-docs/v3.0.1/CONTRIBUTING",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "intro",
-              "path": "/luci-sdk-docs/v3.0.1/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Examples/examples",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/examples",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Examples/slam",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/slam",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Getting-Started/docker",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Getting-Started/docker",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Getting-Started/getting-started",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Getting-Started/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Installation/dependencies",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/dependencies",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Installation/install-grpc",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/install-grpc",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/How-To/Installation/ros-install",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/ros-install",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/Packages/Basic Teleop/teleop",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Basic Teleop/teleop",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/Packages/GRPC Interface/grpc_package",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/GRPC Interface/grpc_package",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/Packages/Messages/msgs_package",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Messages/msgs_package",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/Packages/Third Party/third_party_package",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Third Party/third_party_package",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/Packages/Transforms/luci_transforms_package",
-              "path": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Transforms/luci_transforms_package",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "troubleshooting",
-              "path": "/luci-sdk-docs/v3.0.1/troubleshooting",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Using Encoders/encoders",
-              "path": "/luci-sdk-docs/v3.0.1/Using Encoders/encoders",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Using Encoders/firmware",
-              "path": "/luci-sdk-docs/v3.0.1/Using Encoders/firmware",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "Using Encoders/shield",
-              "path": "/luci-sdk-docs/v3.0.1/Using Encoders/shield",
-              "sidebar": "tutorialSidebar"
-            }
-          ],
-          "draftIds": [],
-          "sidebars": {
-            "tutorialSidebar": {
-              "link": {
-                "path": "/luci-sdk-docs/v3.0.1/",
                 "label": "version-v3.0.1/intro"
               }
             }

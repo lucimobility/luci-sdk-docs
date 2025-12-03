@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.1/1_ROS2 SDK/2_How-To/3_Examples/slam.md",
   "sourceDirName": "1_ROS2 SDK/2_How-To/3_Examples",
   "slug": "/ROS2 SDK/How-To/Examples/slam",
-  "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/slam",
+  "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam",
   "draft": false,
   "tags": [],
   "version": "v3.0.1",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SDK Examples",
-    "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/examples"
+    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/examples"
   },
   "next": {
     "title": "luci_basic_teleop",
-    "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Basic Teleop/teleop"
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop"
   }
 }

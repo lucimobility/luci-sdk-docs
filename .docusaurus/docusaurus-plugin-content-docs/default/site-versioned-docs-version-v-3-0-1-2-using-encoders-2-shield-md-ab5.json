@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.1/2_Using Encoders/2_shield.md",
   "sourceDirName": "2_Using Encoders",
   "slug": "/Using Encoders/shield",
-  "permalink": "/luci-sdk-docs/v3.0.1/Using Encoders/shield",
+  "permalink": "/luci-sdk-docs/Using Encoders/shield",
   "draft": false,
   "tags": [],
   "version": "v3.0.1",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Encoders",
-    "permalink": "/luci-sdk-docs/v3.0.1/Using Encoders/encoders"
+    "permalink": "/luci-sdk-docs/Using Encoders/encoders"
   },
   "next": {
     "title": "Firmware",
-    "permalink": "/luci-sdk-docs/v3.0.1/Using Encoders/firmware"
+    "permalink": "/luci-sdk-docs/Using Encoders/firmware"
   }
 }

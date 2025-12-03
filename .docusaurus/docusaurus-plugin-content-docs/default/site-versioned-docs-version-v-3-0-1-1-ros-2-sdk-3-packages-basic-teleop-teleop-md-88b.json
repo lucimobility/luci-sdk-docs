@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.1/1_ROS2 SDK/3_Packages/Basic Teleop/teleop.md",
   "sourceDirName": "1_ROS2 SDK/3_Packages/Basic Teleop",
   "slug": "/ROS2 SDK/Packages/Basic Teleop/teleop",
-  "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Basic Teleop/teleop",
+  "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop",
   "draft": false,
   "tags": [],
   "version": "v3.0.1",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "SLAM (Simultaneous Localization and Mapping)",
-    "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/slam"
+    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam"
   },
   "next": {
     "title": "luci_grpc_interface",
-    "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/GRPC Interface/grpc_package"
+    "permalink": "/luci-sdk-docs/ROS2 SDK/Packages/GRPC Interface/grpc_package"
   }
 }
