@@ -17,15 +17,13 @@ All of this runs inside of a virtual machine within Docker, allowing you to use 
 
 If you don't have docker, you can install it by following instructions here: [Install Docker](https://docs.docker.com/engine/install/)
 
-## Pull down the latest LUCI ROS2 SDK docker image
+**Note: You may have to preface docker commands below with `sudo`**
 
-**Note: You may have to preface the docker commands below with 'sudo'**
+## Pull down the latest LUCI ROS2 SDK docker image
 
 `docker pull luci.jfrog.io/ros2-sdk-docker-local/luci-ros2-sdk:latest`
 
 ## Using the Container
-
-**Note: You may have to preface the docker commands below with 'sudo'**
 
 ## Part 1: Create and run the docker container. 
 

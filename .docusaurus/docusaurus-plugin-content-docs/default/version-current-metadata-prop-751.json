@@ -247,7 +247,7 @@
     "ROS2 SDK/docs/Installation/Manual Installation/manual-installation": {
       "id": "ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
       "title": "Manual Installation",
-      "description": "Note: These are instruction for installing ROS2, luci_ros2_sdk, and other system dependencies onto a native Linux system. If you installed everything using the Quick Start and Docker instructions above here, then you do not need to do any part of the installation below.",
+      "description": "Note: These are instructions for installing ROS2, luci_ros2_sdk, and other system dependencies onto a native Linux system. If you installed everything using the Quick Start and Docker instructions above here, then you do not need to do any part of the installation below.",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/docs/Installation/Quick-Start/quick-start": {
