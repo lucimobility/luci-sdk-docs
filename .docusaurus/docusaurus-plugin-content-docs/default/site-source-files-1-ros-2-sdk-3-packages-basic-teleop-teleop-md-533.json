@@ -13,8 +13,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Introduction",
-    "permalink": "/luci-sdk-docs/next/"
+    "title": "Manual Installation",
+    "permalink": "/luci-sdk-docs/next/ROS2 SDK/Installation/Manual Installation/manual-installation"
   },
   "next": {
     "title": "luci_grpc_interface",

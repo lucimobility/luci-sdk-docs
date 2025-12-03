@@ -8,61 +8,41 @@
           "label": "Next",
           "isLast": false,
           "path": "/luci-sdk-docs/next",
-          "mainDocId": "intro",
+          "mainDocId": "ROS2 SDK/intro",
           "docs": [
             {
-              "id": "code-of-conduct",
-              "path": "/luci-sdk-docs/next/code-of-conduct",
+              "id": "ROS2 SDK/code-of-conduct",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/code-of-conduct",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "contributing",
-              "path": "/luci-sdk-docs/next/contributing",
+              "id": "ROS2 SDK/contributing",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/contributing",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "intro",
+              "id": "ROS2 SDK/Examples/examples",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/Examples/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/Examples/slam",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/Examples/slam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/Installation/Manual Installation/manual-installation",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/Installation/Manual Installation/manual-installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/Installation/Quick-Start/quick-start",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/Installation/Quick-Start/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ROS2 SDK/intro",
               "path": "/luci-sdk-docs/next/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/code-of-conduct",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/code-of-conduct",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/contributing",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/contributing",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/Examples/examples",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/Examples/examples",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/Examples/slam",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/Examples/slam",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/Installation/Quick-Start/quick-start",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Quick-Start/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/intro",
-              "path": "/luci-sdk-docs/next/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ROS2 SDK/docs/troubleshooting",
-              "path": "/luci-sdk-docs/next/ROS2 SDK/docs/troubleshooting",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -91,8 +71,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "troubleshooting",
-              "path": "/luci-sdk-docs/next/troubleshooting",
+              "id": "ROS2 SDK/troubleshooting",
+              "path": "/luci-sdk-docs/next/ROS2 SDK/troubleshooting",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -101,7 +81,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/luci-sdk-docs/next/",
-                "label": "intro"
+                "label": "ROS2 SDK/intro"
               }
             }
           }

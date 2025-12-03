@@ -10,17 +10,45 @@
   "docsSidebars": {
     "tutorialSidebar": [
       {
-        "type": "link",
-        "label": "Introduction",
-        "href": "/luci-sdk-docs/next/",
-        "docId": "intro"
-      },
-      {
         "type": "category",
         "label": "ROS2 SDK",
         "collapsible": true,
         "collapsed": true,
         "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/luci-sdk-docs/next/",
+            "docId": "ROS2 SDK/intro"
+          },
+          {
+            "type": "category",
+            "label": "Installation",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Quick Start",
+                "href": "/luci-sdk-docs/next/ROS2 SDK/Installation/Quick-Start/",
+                "docId": "ROS2 SDK/Installation/Quick-Start/quick-start"
+              },
+              {
+                "type": "category",
+                "label": "Manual Installation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Manual Installation",
+                    "href": "/luci-sdk-docs/next/ROS2 SDK/Installation/Manual Installation/manual-installation",
+                    "docId": "ROS2 SDK/Installation/Manual Installation/manual-installation"
+                  }
+                ]
+              }
+            ]
+          },
           {
             "type": "category",
             "label": "Packages",
@@ -101,171 +129,87 @@
           },
           {
             "type": "category",
-            "label": "docs",
+            "label": "Examples",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
-                "label": "Introduction",
-                "href": "/luci-sdk-docs/next/",
-                "docId": "ROS2 SDK/docs/intro"
-              },
-              {
-                "type": "category",
-                "label": "Installation",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Quick Start",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Quick-Start/",
-                    "docId": "ROS2 SDK/docs/Installation/Quick-Start/quick-start"
-                  },
-                  {
-                    "type": "category",
-                    "label": "Manual Installation",
-                    "collapsible": true,
-                    "collapsed": true,
-                    "items": [
-                      {
-                        "type": "link",
-                        "label": "Manual Installation",
-                        "href": "/luci-sdk-docs/next/ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
-                        "docId": "ROS2 SDK/docs/Installation/Manual Installation/manual-installation"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "category",
-                "label": "Examples",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "link",
-                    "label": "Usage Examples",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/docs/Examples/examples",
-                    "docId": "ROS2 SDK/docs/Examples/examples"
-                  },
-                  {
-                    "type": "link",
-                    "label": "SLAM Notes",
-                    "href": "/luci-sdk-docs/next/ROS2 SDK/docs/Examples/slam",
-                    "docId": "ROS2 SDK/docs/Examples/slam"
-                  }
-                ]
+                "label": "Usage Examples",
+                "href": "/luci-sdk-docs/next/ROS2 SDK/Examples/examples",
+                "docId": "ROS2 SDK/Examples/examples"
               },
               {
                 "type": "link",
-                "label": "Troubleshooting",
-                "href": "/luci-sdk-docs/next/ROS2 SDK/docs/troubleshooting",
-                "docId": "ROS2 SDK/docs/troubleshooting"
-              },
-              {
-                "type": "link",
-                "label": "How to Contribute",
-                "href": "/luci-sdk-docs/next/ROS2 SDK/docs/contributing",
-                "docId": "ROS2 SDK/docs/contributing"
-              },
-              {
-                "type": "link",
-                "label": "Code of Conduct",
-                "href": "/luci-sdk-docs/next/ROS2 SDK/docs/code-of-conduct",
-                "docId": "ROS2 SDK/docs/code-of-conduct"
+                "label": "SLAM Notes",
+                "href": "/luci-sdk-docs/next/ROS2 SDK/Examples/slam",
+                "docId": "ROS2 SDK/Examples/slam"
               }
             ]
+          },
+          {
+            "type": "link",
+            "label": "Troubleshooting",
+            "href": "/luci-sdk-docs/next/ROS2 SDK/troubleshooting",
+            "docId": "ROS2 SDK/troubleshooting"
+          },
+          {
+            "type": "link",
+            "label": "How to Contribute",
+            "href": "/luci-sdk-docs/next/ROS2 SDK/contributing",
+            "docId": "ROS2 SDK/contributing"
+          },
+          {
+            "type": "link",
+            "label": "Code of Conduct",
+            "href": "/luci-sdk-docs/next/ROS2 SDK/code-of-conduct",
+            "docId": "ROS2 SDK/code-of-conduct"
           }
         ]
-      },
-      {
-        "type": "link",
-        "label": "Troubleshooting",
-        "href": "/luci-sdk-docs/next/troubleshooting",
-        "docId": "troubleshooting"
-      },
-      {
-        "type": "link",
-        "label": "How to Contribute",
-        "href": "/luci-sdk-docs/next/contributing",
-        "docId": "contributing"
-      },
-      {
-        "type": "link",
-        "label": "Code of Conduct",
-        "href": "/luci-sdk-docs/next/code-of-conduct",
-        "docId": "code-of-conduct"
       }
     ]
   },
   "docs": {
-    "code-of-conduct": {
-      "id": "code-of-conduct",
+    "ROS2 SDK/code-of-conduct": {
+      "id": "ROS2 SDK/code-of-conduct",
       "title": "Code of Conduct",
       "description": "Our Pledge",
       "sidebar": "tutorialSidebar"
     },
-    "contributing": {
-      "id": "contributing",
+    "ROS2 SDK/contributing": {
+      "id": "ROS2 SDK/contributing",
       "title": "How to Contribute",
       "description": "This project welcomes third-party code via pull requests.",
       "sidebar": "tutorialSidebar"
     },
-    "intro": {
-      "id": "intro",
-      "title": "Introduction",
-      "description": "The tools in this SDK make LUCI sensor information and control interfaces available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you need a LUCI Dev Kit (a LUCI enabled wheelchair) updated to LuciCore Sandbox Edition, Version 3.0.5 or greater. If you are interested in becoming a Sandbox Partner, contact info@luci.com.",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/docs/code-of-conduct": {
-      "id": "ROS2 SDK/docs/code-of-conduct",
-      "title": "Code of Conduct",
-      "description": "Our Pledge",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/docs/contributing": {
-      "id": "ROS2 SDK/docs/contributing",
-      "title": "How to Contribute",
-      "description": "This project welcomes third-party code via pull requests.",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/docs/Examples/examples": {
-      "id": "ROS2 SDK/docs/Examples/examples",
+    "ROS2 SDK/Examples/examples": {
+      "id": "ROS2 SDK/Examples/examples",
       "title": "Usage Examples",
       "description": "Note: If you are using Docker to run the SDK, make sure to connect a new terminal to your container each time the instructions below tell you to \"open a new terminal\"",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/docs/Examples/slam": {
-      "id": "ROS2 SDK/docs/Examples/slam",
+    "ROS2 SDK/Examples/slam": {
+      "id": "ROS2 SDK/Examples/slam",
       "title": "SLAM Notes",
       "description": "LUCI as a sensor platform allows for a jump start on applying a SLAM methodology to power wheelchairs.",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/docs/Installation/Manual Installation/manual-installation": {
-      "id": "ROS2 SDK/docs/Installation/Manual Installation/manual-installation",
+    "ROS2 SDK/Installation/Manual Installation/manual-installation": {
+      "id": "ROS2 SDK/Installation/Manual Installation/manual-installation",
       "title": "Manual Installation",
       "description": "Note: These are instructions for installing ROS2, luci_ros2_sdk, and other system dependencies onto a native Linux system. If you installed everything using the Quick Start and Docker instructions above here, then you do not need to do any part of the installation below.",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/docs/Installation/Quick-Start/quick-start": {
-      "id": "ROS2 SDK/docs/Installation/Quick-Start/quick-start",
+    "ROS2 SDK/Installation/Quick-Start/quick-start": {
+      "id": "ROS2 SDK/Installation/Quick-Start/quick-start",
       "title": "Quick Start",
       "description": "Docker",
       "sidebar": "tutorialSidebar"
     },
-    "ROS2 SDK/docs/intro": {
-      "id": "ROS2 SDK/docs/intro",
+    "ROS2 SDK/intro": {
+      "id": "ROS2 SDK/intro",
       "title": "Introduction",
       "description": "The tools in this SDK make LUCI sensor information and control interfaces available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you need a LUCI Dev Kit (a LUCI enabled wheelchair) updated to LuciCore Sandbox Edition, Version 3.0.5 or greater. If you are interested in becoming a Sandbox Partner, contact info@luci.com.",
-      "sidebar": "tutorialSidebar"
-    },
-    "ROS2 SDK/docs/troubleshooting": {
-      "id": "ROS2 SDK/docs/troubleshooting",
-      "title": "Troubleshooting",
-      "description": "If during the gRPC install you are getting protobuf errors but protoc --version is giving the correct output try restarting your computer and reinstalling grpc",
       "sidebar": "tutorialSidebar"
     },
     "ROS2 SDK/Packages/Basic Teleop/teleop": {
@@ -298,8 +242,8 @@
       "description": "summary",
       "sidebar": "tutorialSidebar"
     },
-    "troubleshooting": {
-      "id": "troubleshooting",
+    "ROS2 SDK/troubleshooting": {
+      "id": "ROS2 SDK/troubleshooting",
       "title": "Troubleshooting",
       "description": "If during the gRPC install you are getting protobuf errors but protoc --version is giving the correct output try restarting your computer and reinstalling grpc",
       "sidebar": "tutorialSidebar"
