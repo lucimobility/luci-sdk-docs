@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.1/1_ROS2 SDK/2_How-To/2_Installation/1_ros-install.md",
   "sourceDirName": "1_ROS2 SDK/2_How-To/2_Installation",
   "slug": "/ROS2 SDK/How-To/Installation/ros-install",
-  "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install",
+  "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/ros-install",
   "draft": false,
   "tags": [],
   "version": "v3.0.1",
@@ -15,10 +15,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Installing Basic System Dependencies",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/dependencies"
+    "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/dependencies"
   },
   "next": {
     "title": "Install gRPC",
-    "permalink": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc"
+    "permalink": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/install-grpc"
   }
 }

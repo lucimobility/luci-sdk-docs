@@ -2,17 +2,17 @@
   "pluginId": "default",
   "version": "v3.0.1",
   "label": "v3.0.1",
-  "banner": null,
+  "banner": "unmaintained",
   "badge": true,
   "noIndex": false,
   "className": "docs-version-v3.0.1",
-  "isLast": true,
+  "isLast": false,
   "docsSidebars": {
     "tutorialSidebar": [
       {
         "type": "link",
         "label": "SDK Documentation",
-        "href": "/luci-sdk-docs/",
+        "href": "/luci-sdk-docs/v3.0.1/",
         "docId": "intro"
       },
       {
@@ -36,11 +36,11 @@
                   {
                     "type": "link",
                     "label": "docker",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/docker",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Getting-Started/docker",
                     "docId": "ROS2 SDK/How-To/Getting-Started/docker"
                   }
                 ],
-                "href": "/luci-sdk-docs/ROS2 SDK/How-To/Getting-Started/"
+                "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Getting-Started/"
               },
               {
                 "type": "category",
@@ -51,25 +51,25 @@
                   {
                     "type": "link",
                     "label": "Installing Basic System Dependencies",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/dependencies",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/dependencies",
                     "docId": "ROS2 SDK/How-To/Installation/dependencies"
                   },
                   {
                     "type": "link",
                     "label": "Install ROS2",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/ros-install",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/ros-install",
                     "docId": "ROS2 SDK/How-To/Installation/ros-install"
                   },
                   {
                     "type": "link",
                     "label": "Install gRPC",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/install-grpc",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/install-grpc",
                     "docId": "ROS2 SDK/How-To/Installation/install-grpc"
                   },
                   {
                     "type": "link",
                     "label": "Install LUCI ROS2 SDK",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Installation/luci-ros2-sdk-install",
                     "docId": "ROS2 SDK/How-To/Installation/luci-ros2-sdk-install"
                   }
                 ]
@@ -83,13 +83,13 @@
                   {
                     "type": "link",
                     "label": "SDK Examples",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/examples",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/examples",
                     "docId": "ROS2 SDK/How-To/Examples/examples"
                   },
                   {
                     "type": "link",
                     "label": "SLAM (Simultaneous Localization and Mapping)",
-                    "href": "/luci-sdk-docs/ROS2 SDK/How-To/Examples/slam",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/How-To/Examples/slam",
                     "docId": "ROS2 SDK/How-To/Examples/slam"
                   }
                 ]
@@ -111,7 +111,7 @@
                   {
                     "type": "link",
                     "label": "luci_basic_teleop",
-                    "href": "/luci-sdk-docs/ROS2 SDK/Packages/Basic Teleop/teleop",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Basic Teleop/teleop",
                     "docId": "ROS2 SDK/Packages/Basic Teleop/teleop"
                   }
                 ]
@@ -125,7 +125,7 @@
                   {
                     "type": "link",
                     "label": "luci_grpc_interface",
-                    "href": "/luci-sdk-docs/ROS2 SDK/Packages/GRPC Interface/grpc_package",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/GRPC Interface/grpc_package",
                     "docId": "ROS2 SDK/Packages/GRPC Interface/grpc_package"
                   }
                 ]
@@ -139,7 +139,7 @@
                   {
                     "type": "link",
                     "label": "luci_messages",
-                    "href": "/luci-sdk-docs/ROS2 SDK/Packages/Messages/msgs_package",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Messages/msgs_package",
                     "docId": "ROS2 SDK/Packages/Messages/msgs_package"
                   }
                 ]
@@ -153,7 +153,7 @@
                   {
                     "type": "link",
                     "label": "luci-third-party",
-                    "href": "/luci-sdk-docs/ROS2 SDK/Packages/Third Party/third_party_package",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Third Party/third_party_package",
                     "docId": "ROS2 SDK/Packages/Third Party/third_party_package"
                   }
                 ]
@@ -167,7 +167,7 @@
                   {
                     "type": "link",
                     "label": "luci_transforms",
-                    "href": "/luci-sdk-docs/ROS2 SDK/Packages/Transforms/luci_transforms_package",
+                    "href": "/luci-sdk-docs/v3.0.1/ROS2 SDK/Packages/Transforms/luci_transforms_package",
                     "docId": "ROS2 SDK/Packages/Transforms/luci_transforms_package"
                   }
                 ]
@@ -185,19 +185,19 @@
           {
             "type": "link",
             "label": "Encoders",
-            "href": "/luci-sdk-docs/Using Encoders/encoders",
+            "href": "/luci-sdk-docs/v3.0.1/Using Encoders/encoders",
             "docId": "Using Encoders/encoders"
           },
           {
             "type": "link",
             "label": "Shield",
-            "href": "/luci-sdk-docs/Using Encoders/shield",
+            "href": "/luci-sdk-docs/v3.0.1/Using Encoders/shield",
             "docId": "Using Encoders/shield"
           },
           {
             "type": "link",
             "label": "Firmware",
-            "href": "/luci-sdk-docs/Using Encoders/firmware",
+            "href": "/luci-sdk-docs/v3.0.1/Using Encoders/firmware",
             "docId": "Using Encoders/firmware"
           }
         ]
@@ -205,19 +205,19 @@
       {
         "type": "link",
         "label": "How to Contribute",
-        "href": "/luci-sdk-docs/CONTRIBUTING",
+        "href": "/luci-sdk-docs/v3.0.1/CONTRIBUTING",
         "docId": "CONTRIBUTING"
       },
       {
         "type": "link",
         "label": "LUCI Code of Conduct",
-        "href": "/luci-sdk-docs/code-of-conduct",
+        "href": "/luci-sdk-docs/v3.0.1/code-of-conduct",
         "docId": "code-of-conduct"
       },
       {
         "type": "link",
         "label": "Troubleshooting",
-        "href": "/luci-sdk-docs/troubleshooting",
+        "href": "/luci-sdk-docs/v3.0.1/troubleshooting",
         "docId": "troubleshooting"
       }
     ]

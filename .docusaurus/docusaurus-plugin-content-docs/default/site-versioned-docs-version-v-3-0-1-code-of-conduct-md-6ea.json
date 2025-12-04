@@ -6,7 +6,7 @@
   "source": "@site/versioned_docs/version-v3.0.1/code-of-conduct.md",
   "sourceDirName": ".",
   "slug": "/code-of-conduct",
-  "permalink": "/luci-sdk-docs/code-of-conduct",
+  "permalink": "/luci-sdk-docs/v3.0.1/code-of-conduct",
   "draft": false,
   "tags": [],
   "version": "v3.0.1",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "How to Contribute",
-    "permalink": "/luci-sdk-docs/CONTRIBUTING"
+    "permalink": "/luci-sdk-docs/v3.0.1/CONTRIBUTING"
   },
   "next": {
     "title": "Troubleshooting",
-    "permalink": "/luci-sdk-docs/troubleshooting"
+    "permalink": "/luci-sdk-docs/v3.0.1/troubleshooting"
   }
 }
