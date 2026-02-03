@@ -53,7 +53,7 @@ export default {
     },
     "footer": {
       "style": "dark",
-      "copyright": "Copyright © 2025 LUCI Mobility, Inc.",
+      "copyright": "Copyright © 2026 LUCI Mobility, Inc.",
       "links": []
     },
     "prism": {
