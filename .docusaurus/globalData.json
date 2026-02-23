@@ -87,8 +87,8 @@
           }
         },
         {
-          "name": "v3.0.2",
-          "label": "v3.0.2",
+          "name": "v3.0.3",
+          "label": "v3.0.3",
           "isLast": true,
           "path": "/luci-sdk-docs/",
           "mainDocId": "intro",
@@ -164,6 +164,89 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/luci-sdk-docs/",
+                "label": "version-v3.0.3/intro"
+              }
+            }
+          }
+        },
+        {
+          "name": "v3.0.2",
+          "label": "v3.0.2",
+          "isLast": false,
+          "path": "/luci-sdk-docs/v3.0.2",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "code-of-conduct",
+              "path": "/luci-sdk-docs/v3.0.2/code-of-conduct",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/luci-sdk-docs/v3.0.2/contributing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/examples",
+              "path": "/luci-sdk-docs/v3.0.2/Examples/examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Examples/slam",
+              "path": "/luci-sdk-docs/v3.0.2/Examples/slam",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/manual-installation",
+              "path": "/luci-sdk-docs/v3.0.2/Installation/manual-installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Installation/Quick-Start/quick-start",
+              "path": "/luci-sdk-docs/v3.0.2/Installation/Quick-Start/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/luci-sdk-docs/v3.0.2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Basic Teleop/teleop",
+              "path": "/luci-sdk-docs/v3.0.2/Packages/Basic Teleop/teleop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/GRPC Interface/grpc_package",
+              "path": "/luci-sdk-docs/v3.0.2/Packages/GRPC Interface/grpc_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Messages/msgs_package",
+              "path": "/luci-sdk-docs/v3.0.2/Packages/Messages/msgs_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Third Party/third_party_package",
+              "path": "/luci-sdk-docs/v3.0.2/Packages/Third Party/third_party_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Packages/Transforms/luci_transforms_package",
+              "path": "/luci-sdk-docs/v3.0.2/Packages/Transforms/luci_transforms_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/luci-sdk-docs/v3.0.2/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/luci-sdk-docs/v3.0.2/",
                 "label": "version-v3.0.2/intro"
               }
             }
