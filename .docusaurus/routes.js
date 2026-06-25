@@ -428,84 +428,168 @@ export default [
     ]
   },
   {
+    path: '/luci-sdk-docs/v3.0.3',
+    component: ComponentCreator('/luci-sdk-docs/v3.0.3', '972'),
+    routes: [
+      {
+        path: '/luci-sdk-docs/v3.0.3/',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/', '423'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/code-of-conduct',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/code-of-conduct', '6f4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/contributing',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/contributing', 'ef1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Examples/examples',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Examples/examples', '1c9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Examples/slam',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Examples/slam', 'fc5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Installation/manual-installation',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Installation/manual-installation', '75c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Installation/Quick-Start/',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Installation/Quick-Start/', '398'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Packages/Basic Teleop/teleop',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Packages/Basic Teleop/teleop', '8f4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Packages/GRPC Interface/grpc_package',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Packages/GRPC Interface/grpc_package', 'dfb'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Packages/Messages/msgs_package',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Packages/Messages/msgs_package', '423'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Packages/Third Party/third_party_package',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Packages/Third Party/third_party_package', '075'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/Packages/Transforms/luci_transforms_package',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/Packages/Transforms/luci_transforms_package', 'e3e'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/luci-sdk-docs/v3.0.3/troubleshooting',
+        component: ComponentCreator('/luci-sdk-docs/v3.0.3/troubleshooting', '6f3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      }
+    ]
+  },
+  {
     path: '/luci-sdk-docs/',
-    component: ComponentCreator('/luci-sdk-docs/', '556'),
+    component: ComponentCreator('/luci-sdk-docs/', 'b87'),
     routes: [
       {
         path: '/luci-sdk-docs/',
-        component: ComponentCreator('/luci-sdk-docs/', 'dc5'),
+        component: ComponentCreator('/luci-sdk-docs/', '15b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/code-of-conduct',
-        component: ComponentCreator('/luci-sdk-docs/code-of-conduct', '01c'),
+        component: ComponentCreator('/luci-sdk-docs/code-of-conduct', '4b0'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/contributing',
-        component: ComponentCreator('/luci-sdk-docs/contributing', 'bf2'),
+        component: ComponentCreator('/luci-sdk-docs/contributing', '5d5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Examples/examples',
-        component: ComponentCreator('/luci-sdk-docs/Examples/examples', 'f38'),
+        component: ComponentCreator('/luci-sdk-docs/Examples/examples', '19f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Examples/slam',
-        component: ComponentCreator('/luci-sdk-docs/Examples/slam', 'd7c'),
+        component: ComponentCreator('/luci-sdk-docs/Examples/slam', '411'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Installation/manual-installation',
-        component: ComponentCreator('/luci-sdk-docs/Installation/manual-installation', '82a'),
+        component: ComponentCreator('/luci-sdk-docs/Installation/manual-installation', 'c24'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Installation/Quick-Start/',
-        component: ComponentCreator('/luci-sdk-docs/Installation/Quick-Start/', '6a9'),
+        component: ComponentCreator('/luci-sdk-docs/Installation/Quick-Start/', '383'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Packages/Basic Teleop/teleop',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Basic Teleop/teleop', 'b91'),
+        component: ComponentCreator('/luci-sdk-docs/Packages/Basic Teleop/teleop', '142'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Packages/GRPC Interface/grpc_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/GRPC Interface/grpc_package', '7e4'),
+        component: ComponentCreator('/luci-sdk-docs/Packages/GRPC Interface/grpc_package', '83c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Packages/Messages/msgs_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Messages/msgs_package', 'ee6'),
+        component: ComponentCreator('/luci-sdk-docs/Packages/Messages/msgs_package', 'd9f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Packages/Third Party/third_party_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Third Party/third_party_package', 'fa4'),
+        component: ComponentCreator('/luci-sdk-docs/Packages/Third Party/third_party_package', 'b67'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/Packages/Transforms/luci_transforms_package',
-        component: ComponentCreator('/luci-sdk-docs/Packages/Transforms/luci_transforms_package', '5a2'),
+        component: ComponentCreator('/luci-sdk-docs/Packages/Transforms/luci_transforms_package', 'd82'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
         path: '/luci-sdk-docs/troubleshooting',
-        component: ComponentCreator('/luci-sdk-docs/troubleshooting', '4c9'),
+        component: ComponentCreator('/luci-sdk-docs/troubleshooting', '1fe'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
