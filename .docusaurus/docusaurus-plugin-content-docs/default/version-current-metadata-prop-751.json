@@ -193,7 +193,7 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "The tools in this SDK make LUCI sensor information and control interfaces available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you need a LUCI Dev Kit (a LUCI enabled wheelchair) updated to LuciCore Sandbox Edition, Version 3.0.5 or greater. If you are interested in becoming a Sandbox Partner, contact info@luci.com.",
+      "description": "The tools in this SDK make LUCI sensor information and control interfaces available to organizations and leading research institutions, allowing them to use LUCI as a research tool. To use the SDK you need a LUCI Dev Kit (a LUCI enabled wheelchair) updated to LuciCore Sandbox Edition, Version 3.0.5 or greater. If you are interested in becoming a Sandbox Partner, contact .",
       "sidebar": "tutorialSidebar"
     },
     "Packages/Basic Teleop/teleop": {
@@ -205,7 +205,7 @@
     "Packages/GRPC Interface/grpc_package": {
       "id": "Packages/GRPC Interface/grpc_package",
       "title": "luci_grpc_interface",
-      "description": "Summary:",
+      "description": "Summary",
       "sidebar": "tutorialSidebar"
     },
     "Packages/Messages/msgs_package": {

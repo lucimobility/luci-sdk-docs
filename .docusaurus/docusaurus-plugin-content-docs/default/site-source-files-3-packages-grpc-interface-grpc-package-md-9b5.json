@@ -2,7 +2,7 @@
   "unversionedId": "Packages/GRPC Interface/grpc_package",
   "id": "Packages/GRPC Interface/grpc_package",
   "title": "luci_grpc_interface",
-  "description": "Summary:",
+  "description": "Summary",
   "source": "@site/source_files/3_Packages/GRPC Interface/grpc_package.md",
   "sourceDirName": "3_Packages/GRPC Interface",
   "slug": "/Packages/GRPC Interface/grpc_package",
