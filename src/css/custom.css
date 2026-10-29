@@ -2,29 +2,93 @@
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
+ *
+ * Colors follow the LUCI brand and match the SDK landing page at the site root
+ * (luci-ros2-sdk, landing/assets/style.css).
  */
 
-/* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #2e8555;
-  --ifm-color-primary-dark: #29784c;
-  --ifm-color-primary-darker: #277148;
-  --ifm-color-primary-darkest: #205d3b;
-  --ifm-color-primary-light: #33925d;
-  --ifm-color-primary-lighter: #359962;
-  --ifm-color-primary-lightest: #3cad6e;
+  /* LUCI brand palette. The brand uses these as gradients rather than flat fills, and pages use
+     the cool and warm halves of the spectrum rather than the full rainbow. */
+  --luci-violet: #7000ff;
+  --luci-blue: #0000ff;
+  --luci-cyan: #00e8ff;
+  --luci-mint: #00ffc2;
+  --luci-lime: #a6ff99;
+  --luci-yellow: #ffd100;
+  --luci-pink: #ff7096;
+  --luci-magenta: #ff007d;
+  --luci-orange: #ff3600;
+  --spectrum-cool: linear-gradient(90deg, var(--luci-lime), var(--luci-mint), var(--luci-cyan),
+    var(--luci-blue), var(--luci-violet));
+  --spectrum-warm: linear-gradient(90deg, var(--luci-yellow), var(--luci-pink), var(--luci-magenta),
+    var(--luci-orange));
+
+  --ifm-color-primary: #7000ff;
+  --ifm-color-primary-dark: #6500e6;
+  --ifm-color-primary-darker: #5f00d9;
+  --ifm-color-primary-darkest: #4e00b2;
+  --ifm-color-primary-light: #7e1aff;
+  --ifm-color-primary-lighter: #8526ff;
+  --ifm-color-primary-lightest: #9b4cff;
+  --ifm-background-color: #f7f7f9;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #0a0a0c;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
-/* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+/* Violet is too dark to read on near-black, so dark mode uses cyan, as the landing page does.
+   The html prefix matches the specificity of Docusaurus's own dark theme, which it overrides. */
+html[data-theme='dark'] {
+  --ifm-color-primary: #00e8ff;
+  --ifm-color-primary-dark: #00d1e6;
+  --ifm-color-primary-darker: #00c5d9;
+  --ifm-color-primary-darkest: #00a2b2;
+  --ifm-color-primary-light: #1aeaff;
+  --ifm-color-primary-lighter: #26ebff;
+  --ifm-color-primary-lightest: #4cefff;
+  --ifm-background-color: #0a0a0c;
+  --ifm-background-surface-color: #16161a;
+  --ifm-navbar-background-color: #16161a;
+  --ifm-footer-background-color: #000000;
+  --ifm-toc-border-color: #2a2a31;
+  --ifm-color-emphasis-200: #2a2a31;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Cool keyline along the bottom of the navbar, as on the landing page header. */
+.navbar {
+  border-bottom: 3px solid;
+  border-image: var(--spectrum-cool) 1;
+  box-shadow: none;
+}
+
+.navbar__logo {
+  height: 2.5rem;
+}
+
+.navbar__item.navbar__link,
+.navbar__title {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+/* Warm keyline under each page title, paired with the cool one in the navbar. */
+.markdown h1:first-child::after {
+  content: '';
+  display: block;
+  width: 64px;
+  height: 3px;
+  margin-top: 12px;
+  border-radius: 2px;
+  background: var(--spectrum-warm);
+}
+
+/* Text on the cyan dark-mode accent needs to be dark to stay readable. */
+[data-theme='dark'] .button--primary {
+  --ifm-button-color: #0a0a0c;
 }

@@ -60,15 +60,30 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        respectPrefersColorScheme: true,
+      },
       navbar: {
         title: 'ROS2 SDK Documentation',
         logo: {
           alt: 'Sandbox logo',
           src: 'img/sandbox-logo.png',
+          srcDark: 'img/sandbox-logo-dark.png',
         },
         items: [
           {
             type: 'docsVersionDropdown',
+          },
+          {
+            // The SDK landing page lives at the site root, outside this site's baseUrl.
+            href: 'pathname:///',
+            label: 'LUCI SDK',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/lucimobility/luci-ros2-sdk',
+            label: 'GitHub',
+            position: 'right',
           },
         ],
       },
