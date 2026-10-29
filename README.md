@@ -4,7 +4,7 @@ This repo is the public repo responsible for hosting all the LUCI Sandbox Docume
 
 **This website is built using [Docusaurus 2](https://docusaurus.io/), a static website generator. Source files must be updated in their respective repositories NOT IN THIS REPO.**
 
-The site is built and published to <https://sdk.luci-guci.com/ros2/docs/> by the docs workflows in [luci-ros2-sdk](https://github.com/lucimobility/luci-ros2-sdk). The `docs/` folder here is only what GitHub Pages still serves at the old address, <https://lucimobility.github.io/luci-sdk-docs/>: a page that redirects every path there to the same path on the new site.
+The site is built and published to <https://sdk.luci.com/ros2/docs/> by the docs workflows in [luci-ros2-sdk](https://github.com/lucimobility/luci-ros2-sdk). The `docs/` folder here is only what GitHub Pages still serves at the old address, <https://lucimobility.github.io/luci-sdk-docs/>: a page that redirects every path there to the same path on the new site.
 
 ## To Locally Build the Site for Review
 
