@@ -24,8 +24,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'LUCI ROS2 SDK',
   tagline: 'LUCI ROS2 SDK Documentation',
-  url: 'https://lucimobility.github.io',
-  baseUrl: '/luci-sdk-docs/',
+  url: 'https://sdk.luci-guci.com',
+  baseUrl: '/ros2/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/sandbox-logo.ico',
